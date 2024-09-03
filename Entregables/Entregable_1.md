@@ -12,9 +12,11 @@ Open Hardware, o hardware abierto, es cualquier dispositivo o componente cuyo di
  - Colaboración e innovación: Más personas pueden contribuir con ideas y mejoras.
  - Ahorro de costos: No necesitas pagar licencias o royalties.
 
- ## 2. Tematica y su desarrollo:
+ ## 2. Desarrollo de la tematica:
 
- Nos centramos en el uso de bombas cardiacas de flujo continuo en sistemas de circulación extracorpórea en intervenciones quirúrgicas cardiacas.
+### Definicion de palabras clave: Bomba cardiaca, flujo constante, flujo pulsatil, sistema de circulación extracorporea, perfusión.
+
+Nos centramos en el uso de bombas cardiacas de flujo continuo en sistemas de circulación extracorpórea en intervenciones quirúrgicas cardiacas.
 
 La circulación extracorpórea (CEC) es un procedimiento médico que desvía la circulación sanguínea del paciente hacia un sistema externo para oxigenar y mantener el flujo sanguíneo cuando el corazón y los pulmones no pueden realizar sus funciones.
 En 1953, se desarrolló la bomba de circulación extracorpórea (BCE) por John Gibbon. Este invento revolucionó la cirugía cardíaca, que hasta entonces solo podía tratar patologías extracardíacas. Antes de la BCE, se utilizaba la hipotermia para reducir el metabolismo del paciente y prolongar el tiempo de paro circulatorio, pero esto era un proceso complicado y arriesgado.
