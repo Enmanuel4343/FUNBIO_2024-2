@@ -22,6 +22,6 @@ Beneficio:
 
 Bajo coste de producción y permite una selección del pulso de manera independiente a la selección del flujo sanguineo.
 
-
+![Screenshot 2024-09-03 181734](https://github.com/user-attachments/assets/79b91ae0-d170-43d4-92b2-cff76a8185f2)
 
 
