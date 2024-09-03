@@ -55,7 +55,7 @@ El proceso post-circulación extracorpórea (CEC) incluye:
 
 
 ## Diagrama de Ishikawa
-![Inexperience of decision makers (1)](https://github.com/user-attachments/assets/db4040a3-7801-4bf0-af68-a6ab69e2370a)
+![Inexperience of decision makers](https://github.com/user-attachments/assets/28b8c84d-5d16-4322-8f20-0901dc25baf5)
 
 
 ## 3. Definicion de la problematica
