@@ -40,7 +40,14 @@ Mayor portabilidad, mayor ponibilidad, mayor ligeresa, no compromete el rendimie
 
 ![skere1](https://github.com/user-attachments/assets/66b8af4c-b3d5-4d81-afe5-9754d53eb951)
 ![skere2](https://github.com/user-attachments/assets/a901b03c-1860-4a6d-9a35-f0c373c05019)
-
+## EXTRACORPOREAL LIFE SUPORT BLOOD CIRCULATION DEVICE:
+### Funcionamiento:
+Funcionamiento
+Se basa en extraer sangre del cuerpo del paciente a través de un circuito que incluye la bomba centrífuga, el oxigenador, y varios sensores que monitorean la presión y el flujo sanguíneo. La sangre oxigenada es luego retornada al cuerpo, ayudando a mantener las funciones vitales en pacientes con enfermedades respiratorias críticas o lesiones pulmonares agudas. El dispositivo permite tanto la función de soporte pulmonar como cardiopulmonar completo, según la configuración requerida.
+### Detalles técnicos:
+El dispositivo combina una bomba centrífuga y un oxigenador en una estructura compacta de 290mm x 260mm x 160mm. Está equipado con una pantalla táctil para el control y monitoreo del sistema, junto con un regulador para ajustar la velocidad de la bomba. Además, incluye sensores de presión y flujo que permiten supervisar el estado de la sangre, así como un filtro que elimina microcoágulos y burbujas. Funciona con una fuente de alimentación de 220V, y cuenta con un sistema de respaldo basado en baterías y UPS para garantizar un funcionamiento ininterrumpido. Este dispositivo portátil está diseñado para facilitar su uso en emergencias, proporcionando apoyo respiratorio a pacientes con insuficiencia pulmonar grave.
+### Beneficio:
+Los beneficios incluyen portabilidad mejorada, integración compacta, operación simplificada, respaldo energético continuo y monitoreo avanzado con protección.
 ## Lista de Requerimientos:
 
 ### Funcionales: ¿Qué debe hacer mi diseño? 
