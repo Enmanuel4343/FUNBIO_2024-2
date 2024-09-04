@@ -44,13 +44,14 @@ Mayor portabilidad, mayor ponibilidad, mayor ligeresa, no compromete el rendimie
 ## Lista de Requerimientos:
 
 ### Funcionales: ¿Qué debe hacer mi diseño? 
-- asdasd
-- 
-- 
+- Bombeo de sangre de manera optima que simule mejor manera al corazon
+- Mecanismo de flujo a utilizar: FLujo pulsatil
+- Permitir una buena perfusion de los organos del cuerpo
+- Mantener un control optimo de la presion sanguinea
 ### No Funcionales: ¿Cuáles son sus propiedades físicas?
--
--
--
+- Portabilidad
+- Durabilidad
+- Canula de entrada y salida paralelas
 
 ## Propuesta de Solución:
 
