@@ -45,7 +45,12 @@ Mayor portabilidad, mayor ponibilidad, mayor ligeresa, no compromete el rendimie
 
 ### Funcionales: ¿Qué debe hacer mi diseño? 
 - asdasd
+- 
+- 
 ### No Funcionales: ¿Cuáles son sus propiedades físicas?
+-
+-
+-
 
 ## Propuesta de Solución:
 
