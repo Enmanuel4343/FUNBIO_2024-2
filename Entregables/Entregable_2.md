@@ -69,7 +69,7 @@ Los beneficios incluyen portabilidad mejorada, integración compacta, operación
 [4]Mercé Electromedicina, S.L. “PULSAMED. Sistema de circulación extracorpórea pulsátil”. Dialnet. [En línea]. Disponible: https://doi.org/file:///D:/Downloads/Dialnet-PULSAMEDSistemaDeCirculacionExtracorporeaPulsatil-6263317.pdf
 
 [5]“The Design and Evaluation of a Portable Extracorporeal Centrifugal Blood Pump”. PubMed Central (PMC). Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551725/
-
+[6] "Extracorporeal life support blood circulation device," CN212490965U, 2021. Disponible: https://worldwide.espacenet.com/patent/search/family/074440380/publication/CN212490965U?q=CN212490965
 
 
 
