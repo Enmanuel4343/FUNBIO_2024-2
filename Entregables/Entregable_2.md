@@ -39,7 +39,7 @@ Se busco realizar cambios que permitan compactar el tamaño y asi devenir en una
 Mayor portabilidad, mayor ponibilidad, mayor ligeresa, no compromete el rendimiento de la bomba cardiaca.
 
 ![skere1](https://github.com/user-attachments/assets/66b8af4c-b3d5-4d81-afe5-9754d53eb951)
-
+![skere2](https://github.com/user-attachments/assets/a901b03c-1860-4a6d-9a35-f0c373c05019)
 ## REFERENCIAS
 [1]“ES2272352T3 - Bomba pulsatil o modulador de flujo para circulacion extracorporea. - Google Patents”. Google Patents. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://patents.google.com/patent/ES2272352T3/es
 
