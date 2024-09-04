@@ -13,7 +13,7 @@ La patente presenta dos opciones:
 ![Captura de pantalla 2024-09-03 230022](https://github.com/user-attachments/assets/c8416afe-c927-4de3-be02-824853ae2be8)
 
 # CONTEXTO COMERCIAL
-## PULSAMED [4]:
+## PULSAMED [2]:
 La empresa Mercé Electromedicina, S.L. con la colaboración del lnstituto de Biomecánica (IBV) ha desarrollado un sistema capaz de modificar el flujo lineal de una bomba cardiaca convencional y convertirlo en un flujo pulsátil.
 ### Funcionamiento: 
 La sangre pasa por la bomba cardiaca, la cual luego es oxigenada en el oxigenador para al final pasar por un dispositivo electroneumatico a modo de ventriculo que produce pulsos de flujo mediante el llenado-vaciado del ventriculo.
@@ -24,7 +24,7 @@ Bajo coste de producción y permite una selección del pulso de manera independi
 
 ![Screenshot 2024-09-03 181734](https://github.com/user-attachments/assets/79b91ae0-d170-43d4-92b2-cff76a8185f2)
 
-## Bomba de sangre centrífuga extracorpórea portátil [5]:
+## Bomba de sangre centrífuga extracorpórea portátil [3]:
 ### Funcionamiento: 
 Basada en una bomba de sangre centrífuga de levitación magnética interna, la bomba de sangre portátil y ponible se diseñó con tuberías de entrada y salida paralelas para mejorar el rendimiento ponible. Se colocó una cavidad de anillo en la entrada para convertir la velocidad circunferencial de la tubería de entrada en una velocidad axial. Se analizó y comparó el rendimiento hidráulico y hemolítico de las bombas de sangre de referencia y portátiles.
 ### Detalles técnicos: 
@@ -34,7 +34,7 @@ Mayor portabilidad, mayor ponibilidad, mayor ligeresa, no compromete el rendimie
 
 ![skere1](https://github.com/user-attachments/assets/66b8af4c-b3d5-4d81-afe5-9754d53eb951)
 ![skere2](https://github.com/user-attachments/assets/a901b03c-1860-4a6d-9a35-f0c373c05019)
-## EXTRACORPOREAL LIFE SUPORT BLOOD CIRCULATION DEVICE[6]:
+## EXTRACORPOREAL LIFE SUPORT BLOOD CIRCULATION DEVICE[4]:
 ### Funcionamiento:
 Funcionamiento
 Se basa en extraer sangre del cuerpo del paciente a través de un circuito que incluye la bomba centrífuga, el oxigenador, y varios sensores que monitorean la presión y el flujo sanguíneo. La sangre oxigenada es luego retornada al cuerpo, ayudando a mantener las funciones vitales en pacientes con enfermedades respiratorias críticas o lesiones pulmonares agudas. El dispositivo permite tanto la función de soporte pulmonar como cardiopulmonar completo, según la configuración requerida.
@@ -65,11 +65,11 @@ Bomba de sangre portatil con mecanismo de flujo pulsatil para interveciones quir
 ## Referencias Bibliograficas:
 [1]“ES2272352T3 - Bomba pulsatil o modulador de flujo para circulacion extracorporea. - Google Patents”. Google Patents. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://patents.google.com/patent/ES2272352T3/es
 
-[4]Mercé Electromedicina, S.L. “PULSAMED. Sistema de circulación extracorpórea pulsátil”. Dialnet. [En línea]. Disponible: https://doi.org/file:///D:/Downloads/Dialnet-PULSAMEDSistemaDeCirculacionExtracorporeaPulsatil-6263317.pdf
+[2]Mercé Electromedicina, S.L. “PULSAMED. Sistema de circulación extracorpórea pulsátil”. Dialnet. [En línea]. Disponible: https://doi.org/file:///D:/Downloads/Dialnet-PULSAMEDSistemaDeCirculacionExtracorporeaPulsatil-6263317.pdf
 
-[5]“The Design and Evaluation of a Portable Extracorporeal Centrifugal Blood Pump”. PubMed Central (PMC). Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551725/
+[3]“The Design and Evaluation of a Portable Extracorporeal Centrifugal Blood Pump”. PubMed Central (PMC). Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551725/
 
-[6] "Extracorporeal life support blood circulation device," CN212490965U, 2021. Disponible: https://worldwide.espacenet.com/patent/search/family/074440380/publication/CN212490965U?q=CN212490965
+[4] "Extracorporeal life support blood circulation device," CN212490965U, 2021. Disponible: https://worldwide.espacenet.com/patent/search/family/074440380/publication/CN212490965U?q=CN212490965
 
 
 
