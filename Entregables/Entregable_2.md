@@ -47,6 +47,9 @@ Mayor portabilidad, mayor ponibilidad, mayor ligeresa, no compromete el rendimie
 - asdasd
 ### No Funcionales: ¿Cuáles son sus propiedades físicas?
 
+## Propuesta de Solución:
+
+
 ## Referencias Bibliograficas:
 [1]“ES2272352T3 - Bomba pulsatil o modulador de flujo para circulacion extracorporea. - Google Patents”. Google Patents. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://patents.google.com/patent/ES2272352T3/es
 
