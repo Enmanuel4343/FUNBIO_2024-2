@@ -1,10 +1,3 @@
-# CONTEXTO COMERCIAL
-
- -   resumen del producto
-  - explicando su funcionamiento
-  - detalles técnicos
-  -  validación con usuario o pacientes
-  -  artículos científicos relacionados
 # PATENTES
 ## Bomba pulsátil o modulador de flujo para circulación extracorpórea
 Durante una cirugía cardíaca, los médicos utilizan una máquina que mantiene la sangre circulando por el cuerpo (circulación extracorpórea). Esta máquina suele emplear una bomba de flujo continuo, pero el cuerpo humano está más acostumbrado al flujo pulsátil producido por el corazón. Para abordar esta diferencia, se propone generar un flujo pulsátil que imite más fielmente el comportamiento natural del corazón.
@@ -19,6 +12,7 @@ La patente presenta dos opciones:
 
 ![Captura de pantalla 2024-09-03 230022](https://github.com/user-attachments/assets/c8416afe-c927-4de3-be02-824853ae2be8)
 
+# CONTEXTO COMERCIAL
 ## PULSAMED [4]:
 La empresa Mercé Electromedicina, S.L. con la colaboración del lnstituto de Biomecánica (IBV) ha desarrollado un sistema capaz de modificar el flujo lineal de una bomba cardiaca convencional y convertirlo en un flujo pulsátil.
 ### Funcionamiento: 
