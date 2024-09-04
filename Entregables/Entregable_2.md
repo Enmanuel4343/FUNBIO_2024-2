@@ -44,8 +44,7 @@ Mayor portabilidad, mayor ponibilidad, mayor ligeresa, no compromete el rendimie
 ## Lista de Requerimientos:
 
 ### Funcionales: ¿Qué debe hacer mi diseño? 
-
-#### sdadas
+- asdasd
 ### No Funcionales: ¿Cuáles son sus propiedades físicas?
 
 ## Referencias Bibliograficas:
