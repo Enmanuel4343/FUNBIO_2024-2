@@ -15,7 +15,7 @@ La patente presenta dos opciones:
 
 **Modulador de flujo**: Un dispositivo que cuenta con una cámara de volumen variable sin válvulas y un sistema de control que ajusta el flujo para que coincida con la forma de onda pulsátil a la que el cuerpo está acostumbrado.
 
-**Bomba pulsátil**: Una bomba que actúa como un corazón artificial utilizando un pistón para comprimir y liberar la sangre, creando un flujo pulsátil. Este pistón es controlado por un motor eléctrico que regula la frecuencia y el volumen del flujo para lograr el patrón deseado.
+**Bomba pulsátil**: Una bomba que actúa como un corazón artificial utilizando un pistón para comprimir y liberar la sangre, creando un flujo pulsátil. Este pistón es controlado por un motor eléctrico que regula la frecuencia y el volumen del flujo para lograr el patrón deseado[1].
 
 ![Captura de pantalla 2024-09-03 230022](https://github.com/user-attachments/assets/c8416afe-c927-4de3-be02-824853ae2be8)
 
@@ -31,7 +31,8 @@ Bajo coste de producción y permite una selección del pulso de manera independi
 ![Screenshot 2024-09-03 181734](https://github.com/user-attachments/assets/79b91ae0-d170-43d4-92b2-cff76a8185f2)
 
 ## Bomba de sangre centrífuga extracorpórea portátil:
-
+## REFERENCIAS
+[1]“ES2272352T3 - Bomba pulsatil o modulador de flujo para circulacion extracorporea. - Google Patents”. Google Patents. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://patents.google.com/patent/ES2272352T3/es
 
 
 
