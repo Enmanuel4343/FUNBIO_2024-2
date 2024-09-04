@@ -43,7 +43,9 @@ Mayor portabilidad, mayor ponibilidad, mayor ligeresa, no compromete el rendimie
 
 ## REFERENCIAS
 [1]“ES2272352T3 - Bomba pulsatil o modulador de flujo para circulacion extracorporea. - Google Patents”. Google Patents. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://patents.google.com/patent/ES2272352T3/es
+
 [4]Mercé Electromedicina, S.L. “PULSAMED. Sistema de circulación extracorpórea pulsátil”. Dialnet. [En línea]. Disponible: https://doi.org/file:///D:/Downloads/Dialnet-PULSAMEDSistemaDeCirculacionExtracorporeaPulsatil-6263317.pdf
+
 [5]“The Design and Evaluation of a Portable Extracorporeal Centrifugal Blood Pump”. PubMed Central (PMC). Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551725/
 
 
