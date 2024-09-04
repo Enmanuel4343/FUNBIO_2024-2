@@ -55,14 +55,15 @@ Los beneficios incluyen portabilidad mejorada, integración compacta, operación
 - Mecanismo de flujo a utilizar: FLujo pulsatil
 - Permitir una buena perfusion de los organos del cuerpo
 - Mantener un control optimo de la presion sanguinea
+- Operar de manera autonoma
 ### No Funcionales: ¿Cuáles son sus propiedades físicas?
 - Portabilidad
 - Durabilidad
 - Canula de entrada y salida paralelas
+- No ser invasivo
 
 ## Propuesta de Solución:
-
-
+Bomba de sangre portatil con mecanismo de flujo pulsatil para interveciones quirurgicas a corazon abierto
 ## Referencias Bibliograficas:
 [1]“ES2272352T3 - Bomba pulsatil o modulador de flujo para circulacion extracorporea. - Google Patents”. Google Patents. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://patents.google.com/patent/ES2272352T3/es
 
