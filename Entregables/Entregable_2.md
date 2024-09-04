@@ -31,6 +31,13 @@ Bajo coste de producción y permite una selección del pulso de manera independi
 ![Screenshot 2024-09-03 181734](https://github.com/user-attachments/assets/79b91ae0-d170-43d4-92b2-cff76a8185f2)
 
 ## Bomba de sangre centrífuga extracorpórea portátil:
+### Funcionamiento: 
+Basada en una bomba de sangre centrífuga de levitación magnética interna, la bomba de sangre portátil y ponible se diseñó con tuberías de entrada y salida paralelas para mejorar el rendimiento ponible. Se colocó una cavidad de anillo en la entrada para convertir la velocidad circunferencial de la tubería de entrada en una velocidad axial. Se analizó y comparó el rendimiento hidráulico y hemolítico de las bombas de sangre de referencia y portátiles.
+### Detalles técnicos: 
+Se busco realizar cambios que permitan compactar el tamaño y asi devenir en una mayor portabilidad, esto recae en gran parte por la perpendicularidad de las canulas de entrada y salida, este articulo busco que estas mismas sean paralelas.
+### Beneficio:
+Mayor portabilidad, mayor ponibilidad, mayor ligeresa, no compromete el rendimiento de la bomba cardiaca.
+
 ## REFERENCIAS
 [1]“ES2272352T3 - Bomba pulsatil o modulador de flujo para circulacion extracorporea. - Google Patents”. Google Patents. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://patents.google.com/patent/ES2272352T3/es
 
