@@ -7,7 +7,6 @@
   -  artículos científicos relacionados
 
 ## PULSAMED:
-
 La empresa Mercé Electromedicina, S.L. con la colaboración del lnstituto de Biomecánica (IBV) ha desarrollado un sistema capaz de modificar el flujo lineal de una bomba cardiaca convencional y convertirlo en un flujo pulsátil.
 ### Funcionamiento: 
 La sangre pasa por la bomba cardiaca, la cual luego es oxigenada en el oxigenador para al final pasar por un dispositivo electroneumatico a modo de ventriculo que produce pulsos de flujo mediante el llenado-vaciado del ventriculo.
@@ -18,6 +17,8 @@ Bajo coste de producción y permite una selección del pulso de manera independi
 
 ![Screenshot 2024-09-03 181734](https://github.com/user-attachments/assets/79b91ae0-d170-43d4-92b2-cff76a8185f2)
 
-## 
+## Bomba de sangre centrífuga extracorpórea portátil:
+
+
 
 
