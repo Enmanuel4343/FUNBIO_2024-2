@@ -42,7 +42,10 @@ Se basa en extraer sangre del cuerpo del paciente a través de un circuito que i
 El dispositivo combina una bomba centrífuga y un oxigenador en una estructura compacta de 290mm x 260mm x 160mm. Está equipado con una pantalla táctil para el control y monitoreo del sistema, junto con un regulador para ajustar la velocidad de la bomba. Además, incluye sensores de presión y flujo que permiten supervisar el estado de la sangre, así como un filtro que elimina microcoágulos y burbujas. Funciona con una fuente de alimentación de 220V, y cuenta con un sistema de respaldo basado en baterías y UPS para garantizar un funcionamiento ininterrumpido. Este dispositivo portátil está diseñado para facilitar su uso en emergencias, proporcionando apoyo respiratorio a pacientes con insuficiencia pulmonar grave.
 ### Beneficio:
 Los beneficios incluyen portabilidad mejorada, integración compacta, operación simplificada, respaldo energético continuo y monitoreo avanzado con protección.
+
 ![e3981c2c-2a43-4eeb-9330-e2814b69007f](https://github.com/user-attachments/assets/3d2136fd-ed2b-4f05-bb6c-a5c89a68b9cc)
+
+
 ## Lista de Requerimientos:
 
 ### Funcionales: ¿Qué debe hacer mi diseño? 
