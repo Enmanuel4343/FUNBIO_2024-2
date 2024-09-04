@@ -48,6 +48,8 @@ Mayor portabilidad, mayor ponibilidad, mayor ligeresa, no compromete el rendimie
 
 [5]“The Design and Evaluation of a Portable Extracorporeal Centrifugal Blood Pump”. PubMed Central (PMC). Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551725/
 
+## Lista de Requerimientos:
+
 
 
 
