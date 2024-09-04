@@ -5,6 +5,18 @@
   - detalles técnicos
   -  validación con usuario o pacientes
   -  artículos científicos relacionados
+# PATENTES
+
+Durante una cirugía cardíaca, los médicos utilizan una máquina que mantiene la sangre circulando por el cuerpo (circulación extracorpórea). Esta máquina suele emplear una bomba de flujo continuo, pero el cuerpo humano está más acostumbrado al flujo pulsátil producido por el corazón. Para abordar esta diferencia, se propone generar un flujo pulsátil que imite más fielmente el comportamiento natural del corazón.
+
+La invención describe un dispositivo que convierte el flujo continuo en uno pulsátil, más parecido al flujo generado por el corazón, lo que podría mejorar los resultados de la cirugía al simular mejor el comportamiento cardíaco.
+
+La patente presenta dos opciones:
+
+**Modulador de flujo**: Un dispositivo que cuenta con una cámara de volumen variable sin válvulas y un sistema de control que ajusta el flujo para que coincida con la forma de onda pulsátil a la que el cuerpo está acostumbrado.
+
+**Bomba pulsátil**: Una bomba que actúa como un corazón artificial utilizando un pistón para comprimir y liberar la sangre, creando un flujo pulsátil. Este pistón es controlado por un motor eléctrico que regula la frecuencia y el volumen del flujo para lograr el patrón deseado.
+![Captura de pantalla 2024-09-03 230022](https://github.com/user-attachments/assets/c8416afe-c927-4de3-be02-824853ae2be8)
 
 ## PULSAMED:
 La empresa Mercé Electromedicina, S.L. con la colaboración del lnstituto de Biomecánica (IBV) ha desarrollado un sistema capaz de modificar el flujo lineal de una bomba cardiaca convencional y convertirlo en un flujo pulsátil.
