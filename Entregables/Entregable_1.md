@@ -34,8 +34,11 @@ La alteración del sistema inmunológico debido a inmunodeficiencias representa 
 
 ## 5. Referencia Bibliograficas
 [1] “Open Hardware”. SG Buzz. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://sg.com.mx/revista/open-hardware
+
 [2] “What is Arduino?” Arduino - Home. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://www.arduino.cc/en/Guide/Introduction
+
 [3] “Raspberry Pi: Qué es, para qué sirve y qué podemos hacer”. Profesional Review. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://www.profesionalreview.com/2021/07/18/que-es-raspberry-pi/
+
 [4] “Open-source at Prusa Research | Original Prusa 3D printers directly from Josef Prusa”. Prusa3D by Josef Prusa. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://www.prusa3d.com/page/open-source-at-prusa-research_236812/
 
 
