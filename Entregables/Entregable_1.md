@@ -14,7 +14,7 @@ Open Hardware, o hardware abierto, es cualquier dispositivo o componente cuyo di
 
  ## 2. Desarrollo de la tematica:
 
-### Definicion de palabras clave: Bomba cardiaca, flujo constante, flujo pulsatil, sistema de circulación extracorporea, perfusión.
+### Definicion de terminos clave: Lab-on-a-chip, Microfluidos
 
 Nos centramos en el uso de bombas cardiacas de flujo continuo en sistemas de circulación extracorpórea en intervenciones quirúrgicas cardiacas.
 
