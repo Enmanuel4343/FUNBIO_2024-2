@@ -57,6 +57,8 @@ Movimiento de particulas de una mayor concentración a una menor hasta que la co
 
 Se presenta una relación entre la distancia recorrida por una partícula y el tiempo de difusión, mediante la siguiente ecuación
 
+![imagen_2024-09-16_231014320](https://github.com/user-attachments/assets/5a450ccf-f401-4327-94b9-6d008fc590e5)
+
 ## Diagrama de Ishikawa
 ![Inexperience of decision makers (1)](https://github.com/user-attachments/assets/1b7dafea-8c6d-4358-9040-48e468b8287a)
 
