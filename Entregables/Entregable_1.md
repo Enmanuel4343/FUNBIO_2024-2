@@ -27,7 +27,7 @@ Para el correcto estudio de sistemas microfluídicos y de los fluidos con los qu
 
 #### Flujo laminar:
 
-Al trabajarse con dimensiones de canal tan pequeñas, las paredes tienen muy poca distancia entre si, lo cual permite que las particulas del fluido fluyan en capas adyacentes unas con otras.
+Segun explica (Bharat, 2017, p.492), al trabajarse con dimensiones de canal tan pequeñas, las paredes tienen muy poca distancia entre si, lo cual permite que las particulas del fluido fluyan en capas adyacentes unas con otras.
 
 Se pueden utilizar donde formulas para poder determinar el flujo laminar:
 
@@ -74,6 +74,8 @@ La alteración del sistema inmunológico debido a inmunodeficiencias representa 
 [4] “Open-source at Prusa Research | Original Prusa 3D printers directly from Josef Prusa”. Prusa3D by Josef Prusa. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://www.prusa3d.com/page/open-source-at-prusa-research_236812/
 
 [5] F. Rivas, “Microfluidos: ¿cuánto hay de nuevo?”, RCF, vol. 25, n.º 2B, p. 142-143, 2008.
+
+[6] Bharat, B. (Ed.). (2017). Handbook of Nanotechnology (4a ed.). Springer. https://doi.org/10.1007/978-3-319-49347-3_16
 
 
 
