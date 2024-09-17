@@ -41,7 +41,7 @@ Cuando Re<2300, se afirmar que se está trabajando con un fluido con flujo lamin
 
 En donde "ro" s la densidad del fluido, V es la velocidad del fluido corriente, Dh el diametro del canal y "mi" la viscosidad del canal.
 
-Por ende se evidencia que la densidad, velocidad y diametro son directamente proporcionales con el Número de Reynolds, mientras que la viscosidad es inversamente proporcional a Re.
+Por ende se evidencia que la densidad, velocidad y diametro son directamente proporcionales con el Número de Reynolds, mientras que la viscosidad es inversamente proporcional a Re [6].
 
 ##### Resistencia del Fluido (R):
 
@@ -49,7 +49,7 @@ Por ende se evidencia que la densidad, velocidad y diametro son directamente pro
 
 En donde "mi" es la viscosidad del fluido, L es la longitud del canal, w es el ancho del canal y h la altura del canal. 
 
-Por ende se evidencia que la resistencia es directamente proporcional a la longitud del canal y la viscosidad del fluido, mientras que es inversamente proporcional a el ancho del canal.
+Por ende se evidencia que la resistencia es directamente proporcional a la longitud del canal y la viscosidad del fluido, mientras que es inversamente proporcional a el ancho del canal [6].
 
 
 ## Diagrama de Ishikawa
