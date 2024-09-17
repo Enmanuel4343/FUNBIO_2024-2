@@ -55,9 +55,13 @@ Por ende se evidencia que la resistencia es directamente proporcional a la longi
 
 Movimiento de particulas de una mayor concentración a una menor hasta que la concentración media en todo el volumen sea la misma.
 
-Se presenta una relación entre la distancia recorrida por una partícula y el tiempo de difusión, mediante la siguiente ecuación
+Se presenta una relación entre la distancia recorrida por una partícula y el tiempo de difusión, mediante la siguiente ecuación:
 
-![imagen_2024-09-16_231014320](https://github.com/user-attachments/assets/5a450ccf-f401-4327-94b9-6d008fc590e5)
+![SmartSelect_20240916_231050_Adobe Acrobat](https://github.com/user-attachments/assets/6a8aefe7-fa9e-4783-8889-61b87d8ce00d)
+
+Donde d es la distancia recorrida por la partícula, t el tiempo en el que puede recorrer esa distancia y D el coeficiente de difusión de la partícula.
+
+Usando la fórmula presentada se puede apreciar como puede llegar a influir la miniaturización de un sistema en el tiempo de difusión de un fluido [6]
 
 ## Diagrama de Ishikawa
 ![Inexperience of decision makers (1)](https://github.com/user-attachments/assets/1b7dafea-8c6d-4358-9040-48e468b8287a)
