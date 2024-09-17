@@ -90,14 +90,17 @@ Cuando se habla de bombas de jeringa para microfluidos no muchos se familiarizan
 
 La UTEC, La Universidad de Ingenieria y Tecnologia, tiene un laboratorio de Microfluidos para el cual adquirieron la Bomba para microfluidos dual programable Ossila L2003S1, con un precio que ronda los 3600 euros por unidad. Esta bomba de jeringa presenta un motor paso a paso, un microprocesador con micropasos de 1/64, 2 jeringas con un tamano minimo de 0.5 microlitros y con las siguientes dimensiones: 330 mm  de ancho, 140 mm de altura y 260 mm de profundidad [8].
 
-Ademas, en Peru hay una gran cantidad de empresas dedicadas a la fabricacion de bombas para el control de fluidos, pero no se logro encontrar empresas que fabricaran bombas de jeringa para microfluidos, en cambio para el caso de las bombas peristalticas, hay empresas como Omega Peru S.A que las fabrican. En suma se puede evidenciar mediante un rapido chequeo del contexto peruano, que si bien en el ambito educativo y de laboratorios son requeridas (y se proyecta que mucho mas en un futuro), la unica opcion para poder conseguir estos productos es mediante la importacion, debido a que en Peru no hay empresas dedicadas a la fabricacion de las mismas.
+Ademas, en Peru hay una gran cantidad de empresas dedicadas a la fabricacion de bombas para el control de fluidos, pero no se logro encontrar empresas que fabricaran bombas de jeringa para microfluidos, en cambio para el caso de las bombas peristalticas, hay empresas como Omega Peru S.A que las fabrican. 
+
+En suma se puede evidenciar mediante un rapido chequeo del contexto peruano, que si bien en el ambito educativo y de laboratorios son requeridas (y se proyecta que mucho mas en un futuro), la unica opcion para poder conseguir estos productos es mediante la importacion, debido a que en Peru no hay empresas dedicadas a la fabricacion de las mismas.
 
 ### Contexto Mundial:
 
+En el ámbito mundial, la fabricación de bombas de jeringa para microfluidos y su necesidad para un contexto educativo y de laboratorio presenta un mayor alcance y hay una gran cantidad de empresas dedicadas a su fabricación.
 
+En 2012 se inauguro el laboratorio de microfluidica en la Universidad de Chile, con el fin de poder estudiar los fluidos en escalas muy pequeñas, al interior de redes de microcanales que llegan a tener el grosor de un cabello humano, explica la profesora del departamento de Física de la Facultad de Ciencias Físicas y Matemáticas [9].
 
-ejemplo de citas:[5] Autor(es), "Título de la página," Nombre del sitio web. [En línea]. Disponible en: URL. [Fecha de acceso: Mes, Día, Año].
-mananananaan
+Advanced Microfluidics es una fundación Sueca fundada en 2014, dedicada a la fabricación de sistemas y componentes microfluidicos industriales y para laboratorio. Dentro de sus productos presenta una bomba de jeringa programable para laboratorio llamado LSPone, un sistema de dosificación de alta precisión diseñado como un dispositivo de sobremesa para aplicaciones de investigación académica de microfluidos automatizadas [10]. Si bien es un equipo calificado y muy bien implementado, presenta un costo por unidad que ronda los 4700 euros.
 
 ## Diagrama de Ishikawa
 ![Inexperience of decision makers (1)](https://github.com/user-attachments/assets/1b7dafea-8c6d-4358-9040-48e468b8287a)
