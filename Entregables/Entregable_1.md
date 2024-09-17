@@ -88,6 +88,8 @@ Cuando se habla de bombas de jeringa para microfluidos no muchos se familiarizan
 - Microfluídica
 - Química del flujo
 
+La UTEC, La Universidad de Ingenieria y Tecnologia, tiene un laboratorio de Microfluidos para el cual adquirieron la Bomba para microfluidos dual programable Ossila L2003S1, con un precio que ronda los 3600 euros por unidad. Esta bomba de jeringa presenta un motor paso a paso, un microprocesador con micropasos de 1/64, 2 jeringas con un tamano minimo de 0.5 microlitros y con las siguientes dimensiones: 330 mm  de ancho, 140 mm de altura y 260 mm de profundidad [8].
+
 ## Diagrama de Ishikawa
 ![Inexperience of decision makers (1)](https://github.com/user-attachments/assets/1b7dafea-8c6d-4358-9040-48e468b8287a)
 
@@ -114,5 +116,7 @@ La alteración del sistema inmunológico debido a inmunodeficiencias representa 
 [6] Bharat, B. (Ed.). (2017). Handbook of Nanotechnology (4a ed.). Springer. https://doi.org/10.1007/978-3-319-49347-3_16
 
 [7] Chang Kyu, B., & Kameel, A.-S. (2024). ELECTROPHORESIS. Wiley Analytical Science, 45(15-16), 1275. https://doi.org/10.1002/elps.201300205
+
+[8] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
 
 
