@@ -41,6 +41,7 @@ Cuando Re<2300, se afirmar que se está trabajando con un fluido con flujo lamin
 
 ##### Resistencia del Fluido (R):
 
+![SmartSelect_20240916_203038_Adobe Acrobat](https://github.com/user-attachments/assets/42f3ead6-4b82-44bb-be9e-ff62e38f186b)
 
 En donde "ro" es la densidad del fluido, V es la velocidad del fluido corriente, w es el ancho del canal y h la altura del canal. 
 
