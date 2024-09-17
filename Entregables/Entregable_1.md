@@ -39,17 +39,13 @@ Cuando Re<2300, se afirmar que se está trabajando con un fluido con flujo lamin
 ![SmartSelect_20240916_201025_Adobe Acrobat](https://github.com/user-attachments/assets/241a04ae-544d-46dc-9d83-00d1096c4f5c)
 ](url)
 
-En donde "ro" s la densidad del fluido, V es la velocidad del fluido corriente, Dh el diametro del canal y "mi" la viscosidad del canal.
-
-Por ende se evidencia que la densidad, velocidad y diametro son directamente proporcionales con el Número de Reynolds, mientras que la viscosidad es inversamente proporcional a Re [6].
+En donde "ro" s la densidad del fluido, V es la velocidad del fluido corriente, Dh el diametro del canal y "mi" la viscosidad del canal. Por ende se evidencia que la densidad, velocidad y diametro son directamente proporcionales con el Número de Reynolds, mientras que la viscosidad es inversamente proporcional a Re [6].
 
 ##### Resistencia del Fluido (R):
 
 ![SmartSelect_20240916_203038_Adobe Acrobat](https://github.com/user-attachments/assets/42f3ead6-4b82-44bb-be9e-ff62e38f186b)
 
-En donde "mi" es la viscosidad del fluido, L es la longitud del canal, w es el ancho del canal y h la altura del canal. 
-
-Por ende se evidencia que la resistencia es directamente proporcional a la longitud del canal y la viscosidad del fluido, mientras que es inversamente proporcional a el ancho del canal [6].
+En donde "mi" es la viscosidad del fluido, L es la longitud del canal, w es el ancho del canal y h la altura del canal. Por ende se evidencia que la resistencia es directamente proporcional a la longitud del canal y la viscosidad del fluido, mientras que es inversamente proporcional a el ancho del canal [6].
 
 #### 2) Difusión de Microfluidos:
 
@@ -59,9 +55,7 @@ Se presenta una relación entre la distancia recorrida por una partícula y el t
 
 ![SmartSelect_20240916_231050_Adobe Acrobat](https://github.com/user-attachments/assets/6a8aefe7-fa9e-4783-8889-61b87d8ce00d)
 
-Donde d es la distancia recorrida por la partícula, t el tiempo en el que puede recorrer esa distancia y D el coeficiente de difusión de la partícula.
-
-Usando la fórmula presentada se puede apreciar como puede llegar a influir la miniaturización de un sistema en el tiempo de difusión de un fluido.
+Donde d es la distancia recorrida por la partícula, t el tiempo en el que puede recorrer esa distancia y D el coeficiente de difusión de la partícula. Usando la fórmula presentada se puede apreciar como puede llegar a influir la miniaturización de un sistema en el tiempo de difusión de un fluido.
 
 
 La microfluídica es amplia y los dispositivos relacionados a ella también lo son. En el ámbito educativo y de laboratorio hay ciertos dispositivos escenciales para poder llevar a cabo distintos procesos, ya sean relacionados a la Biología, Física o Química. Uno de los dispositivos mas importantes son las bombas de microfluidos, las cuales tienen la función de suministrar el fluido ya sea de manera continua o controlada, con un caudal preciso o la difusión exacta requerida para determinados procesos como son la preparación de mezclas para el análisis de líquidos.
