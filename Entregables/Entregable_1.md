@@ -25,7 +25,7 @@ Es importante también conocer el porque representa un beneficio trabajar con mi
 
 Para el correcto estudio de sistemas microfluídicos y de los fluidos con los que se trabajaran, se deben de tener en cuenta principios físicos que si bien en la escala convencional no presentan una gran importancia, a la hora de evaluar fluidos en ínfimas proporciones, se vuelve dominantes y fundamentales, debido a que ayudaran a poder controlar de manera eficiente al fluido.
 
-#### Flujo laminar:
+#### 1) Flujo laminar:
 
 Segun explica (Bharat, 2017, p.492), al trabajarse con dimensiones de canal tan pequeñas, las paredes tienen muy poca distancia entre si, lo cual permite que las particulas del fluido fluyan en capas adyacentes unas con otras.
 
@@ -51,7 +51,7 @@ En donde "mi" es la viscosidad del fluido, L es la longitud del canal, w es el a
 
 Por ende se evidencia que la resistencia es directamente proporcional a la longitud del canal y la viscosidad del fluido, mientras que es inversamente proporcional a el ancho del canal [6].
 
-#### Difusión de Microfluidos:
+#### 2) Difusión de Microfluidos:
 
 Respecto a (Bharat, 2017, p. 492), es el movimiento de particulas de una mayor concentración a una menor hasta que la concentración media en todo el volumen sea la misma.
 
