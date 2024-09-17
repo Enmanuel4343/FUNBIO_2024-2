@@ -1,11 +1,11 @@
 # CONTEXTO COMERCIAL
 
 ## 1. Bomba de jeringa LP-LSP01-2A
-La bomba LP-LSP01-2A, fabricada por la marca "Longer", también tiene un costo elevado, alrededor de EUR 1,298.40. A diferencia de la ISPLab01, esta bomba no dispone de una pantalla táctil y solo ofrece el modo de infusión, con una interfaz de botones limitada, lo que simplifica su uso. Aunque su precio sigue siendo una limitación, su facilidad de uso es una ventaja.
+La bomba LP-LSP01-2A, fabricada por la marca "Longer", tiene un costo elevado, alrededor de EUR 1,298.40. A diferencia de la ISPLab01, esta bomba solo ofrece el modo de infusión, con una interfaz de botones limitada, lo que simplifica su uso. Aunque su precio sigue siendo una limitación, su facilidad de uso es una ventaja.
 
 Esta bomba puede tener limitaciones en cuanto al cambio de jeringas, ya que es compatible solo con ciertos modelos, lo que la hace menos versátil. Incorpora una función de protección que detiene el dispositivo y emite una alarma en caso de bloqueo del motor. Es adecuada para procesos más sencillos y puede calibrarse para un flujo de 0.0002 μl a 8.6699 ml/min, con un margen de error muy bajo.
 
-Al igual que la ISPLab01, la bomba LP-LSP01-2A se utiliza para el llenado semi-automático de cápsulas. Además, ofrece funciones adicionales como el control por ordenador mediante la interfaz de comunicación RS485 y el control de entrada/salida, lo que facilita su integración en sistemas más amplios.
+La bomba LP-LSP01-2A se utiliza para el llenado semi-automático de cápsulas. Además, ofrece funciones adicionales como el control por ordenador mediante la interfaz de comunicación RS485 y el control de entrada/salida, lo que facilita su integración en sistemas más amplios.
 
 ![drifton-syringe-pump-lsp01-2a](https://github.com/user-attachments/assets/11aca355-82d3-43b9-8b89-7924a4ad288a)
 
