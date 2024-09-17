@@ -25,7 +25,9 @@ Diseñada por JINLU, un fabricante de maquinaria para el procesamiento y envasad
 
 ### Referencias:
 [1] N. author found, “Bomba de jeringa ISPLab01 con infusión/extracción y panel táctil.” [Online]. Available: https://drifton.es/tienda-online/24-bombas-de-jeringa/2399-bomba-de-jeringa-isplab01-con-pantalla-taacutectil/#tabs-pane1
+
 [2] N. author found, “LP-LSP01-2A - Bomba de jeringa con 1 canal y con modo infusión.” [Online]. Available: https://drifton.es/tienda-online/24-bombas-de-jeringa/1824-bomba-de-jeringa-lp-lsp01-2a/
+
 [3] N. author found, “NJP-1000C Liquid Capsule Filling Machine - JL - JINLUPACKING.” [Online]. Available: https://www.jinlupacking.com/product/njp-1000c-liquid-capsule-filling-machine/
 
 
