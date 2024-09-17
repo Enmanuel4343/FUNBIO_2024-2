@@ -60,7 +60,14 @@ Donde d es la distancia recorrida por la partícula, t el tiempo en el que puede
 
 La microfluídica es amplia y los dispositivos relacionados a ella también lo son. En el ámbito educativo y de laboratorio hay ciertos dispositivos escenciales para poder llevar a cabo distintos procesos, ya sean relacionados a la Biología, Física o Química. Uno de los dispositivos mas importantes son las bombas de microfluidos, las cuales tienen la función de suministrar el fluido ya sea de manera continua o controlada, con un caudal preciso o la difusión exacta requerida para determinados procesos como son la preparación de mezclas para el análisis de líquidos.
 
-Se presentan una gran variedad de bombas de microfluidos actualmente, según 
+Se presentan una gran variedad de bombas de microfluidos actualmente, según (Chang Kyu & Kameel, 2024, p. 247-249) se tienen 3 tipos de bombas principales:
+
+- Bombas de jeringas:
+Las bombas mecánicas activas, como las de jeringa y de vacío, permiten un control preciso del flujo de líquidos. Las bombas de jeringa usan un pistón para empujar líquidos, pero están limitadas a volúmenes fijos. Las bombas de vacío crean presión negativa para aspirar líquidos y pueden manejar grandes volúmenes si se mantiene el suministro continuo. Aunque ambas tienen un costo inicial alto y requisitos operativos elevados, existen opciones avanzadas como el sistema de control de flujo microfluídico de Fluigent, que ofrece un control preciso y flexible para aplicaciones más complejas.
+- Bombas peristalticas:
+Las bombas peristálticas utilizan un tubo flexible presionado por rodillos en un rotor para desplazar líquidos. Ofrecen flujo bidireccional y pueden ser configuradas en formatos abiertos o cerrados. Son menos propensas a la contaminación ya que no tocan el líquido directamente, pero pueden dañar células y sus componentes se desgastan con el tiempo. Aunque las versiones miniaturizadas existen para aplicaciones pequeñas, las bombas peristálticas tradicionales suelen ser voluminosas. Se han desarrollado alternativas compactas, como los pines Braille controlados por computadora, para aplicaciones microfluídicas.
+- Bombas electrocinéticas y electroosmóticas:
+Las bombas electrocinéticas o electroosmóticas usan electricidad para mover líquidos mediante un campo eléctrico. Generan un flujo tipo "tapón" en lugar de un flujo parabólico y tienen una estructura simple sin partes móviles. Son sistemas "abiertos" que permiten rellenar líquidos en la entrada. Aunque útiles para la entrega de células, deben operar con campos eléctricos bajos para evitar daños celulares y tienen limitaciones por electrólisis. Usar geles o membranas para aislar los electrodos puede superar algunas de estas limitaciones.
 
 ### Contexto Nacional:
 
@@ -91,5 +98,6 @@ La alteración del sistema inmunológico debido a inmunodeficiencias representa 
 
 [6] Bharat, B. (Ed.). (2017). Handbook of Nanotechnology (4a ed.). Springer. https://doi.org/10.1007/978-3-319-49347-3_16
 
+[7] Chang Kyu, B., & Kameel, A.-S. (2024). ELECTROPHORESIS. Wiley Analytical Science, 45(15-16), 1275. https://doi.org/10.1002/elps.201300205
 
 
