@@ -108,8 +108,7 @@ Advanced Microfluidics es una fundación Sueca fundada en 2014, dedicada a la fa
 
 ## 4. Definición de la problemática
 
-La alteración del sistema inmunológico debido a inmunodeficiencias representa un reto para el diagnóstico de la Tuberculosis 
-
+Se determino que hay un alto costo por unidad y de mantenimiento de las bombas de jeringa de laboratorio para microfluidos, en un contexto educativo, se busca poder realizar los experimentos deseados a un precio accequible, tanto para las universidades o instituciones educativas como para personas e investigadores independientes. Además, considerar que Perú no tiene empresas que fabriquen estas bombas y la única manera de conseguir equipos de calidad confiables es importando del extranjero.
 
 ## 5. Contexto científico
 ### 5.1 Low-cost feedback-controlled syringe pressure pumps for microfluidics application
@@ -121,7 +120,7 @@ Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jering
 ### 5.2 
 
 
-## 6. Referencia Bibliograficas
+## 6. Referencia Bibliográficas
 [1] “Open Hardware”. SG Buzz. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://sg.com.mx/revista/open-hardware
 
 [2] “What is Arduino?” Arduino - Home. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://www.arduino.cc/en/Guide/Introduction
