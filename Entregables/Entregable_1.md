@@ -111,6 +111,7 @@ La alteración del sistema inmunológico debido a inmunodeficiencias representa 
 ## 4. Contexto científico
 ### 4.1 Low-cost feedback-controlled syringe pressure pumps for microfluidics application
 Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jeringa, sensor de presión y amplificador, microcontrolador y controlador del motor. El objetivo es obtener una bomba de bajo costo, con un control sensible y estable para diversos experimentos en chips microfluídicos.
+
 ![imagen_2024-09-17_154823714](https://github.com/user-attachments/assets/a250558a-fe00-449a-8ccd-fc18d300813b)
 
 
