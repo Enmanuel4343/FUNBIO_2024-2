@@ -104,6 +104,7 @@ Advanced Microfluidics es una fundación Sueca fundada en 2014, dedicada a la fa
 
 ## Diagrama de Ishikawa
 
+![SmartSelect_20240917_160911_Canva](https://github.com/user-attachments/assets/4717c40a-32be-45fe-b4a9-eb69e3fe9aa1)
 
 ## 3. Definicion de la problematica
 
