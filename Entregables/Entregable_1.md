@@ -51,6 +51,7 @@ En donde "mi" es la viscosidad del fluido, L es la longitud del canal, w es el a
 
 Por ende se evidencia que la resistencia es directamente proporcional a la longitud del canal y la viscosidad del fluido, mientras que es inversamente proporcional a el ancho del canal [6].
 
+#### Dfusion en microfluidos
 
 ## Diagrama de Ishikawa
 ![Inexperience of decision makers (1)](https://github.com/user-attachments/assets/1b7dafea-8c6d-4358-9040-48e468b8287a)
