@@ -11,7 +11,7 @@ Segun Open Hardware, o hardware abierto, es cualquier dispositivo o componente c
  - Colaboración e innovación: Más personas pueden contribuir con ideas y mejoras.
  - Ahorro de costos: No necesitas pagar licencias o royalties.
 
- ## 2. Análasis de la tematica:
+ ## 2. Análasis de la temática:
 
 ### Definición de terminos clave: Microfluidos, Bomba de microfluidos, Bomba de jeringa, Preparación de mezclas
 
