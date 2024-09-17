@@ -60,7 +60,7 @@ Donde d es la distancia recorrida por la partícula, t el tiempo en el que puede
 
 La microfluídica es amplia y los dispositivos relacionados a ella también lo son. En el ámbito educativo y de laboratorio hay ciertos dispositivos escenciales para poder llevar a cabo distintos procesos, ya sean relacionados a la Biología, Física o Química. Uno de los dispositivos mas importantes son las bombas de microfluidos, las cuales tienen la función de suministrar el fluido ya sea de manera continua o controlada, con un caudal preciso o la difusión exacta requerida para determinados procesos como son la preparación de mezclas para el análisis de líquidos.
 
-Se presentan una gran variedad de bombas de microfluidos actualmente, según (Chang Kyu & Kameel, 2024, p. 247-249) se tienen 3 tipos de bombas principales:
+Se presentan una gran variedad de bombas para microfluidos actualmente, según (Chang Kyu & Kameel, 2024, p. 247-249) se tienen 3 tipos de bombas principales:
 
 - Bombas de jeringas:
   
@@ -72,9 +72,21 @@ Las bombas peristálticas utilizan un tubo flexible presionado por rodillos en u
 
 Las bombas electrocinéticas o electroosmóticas usan electricidad para mover líquidos mediante un campo eléctrico. Generan un flujo tipo "tapón" en lugar de un flujo parabólico y tienen una estructura simple sin partes móviles. Son sistemas "abiertos" que permiten rellenar líquidos en la entrada. Aunque útiles para la entrega de células, deben operar con campos eléctricos bajos para evitar daños celulares y tienen limitaciones por electrólisis. Usar geles o membranas para aislar los electrodos puede superar algunas de estas limitaciones.
 
+Nuestro equipo opto por elegir como objeto de estudio y mejora a las bombas de jeringa para microfluidos, en principio debido a que estas son mejores a la hora de suministrar fluidos teniendo mayor precision a escalas tan pequenas y tambien por su tamano mas manejable.
+
 ### Contexto Nacional:
 
-Cuando se habla de bombas de microfluidos no muchos se familiarizan, pero en el ámbito educativo y de laboratorio son bastante usados para la correcta difusión de cantidades ínfimas de fluido 
+Cuando se habla de bombas de jeringa para microfluidos no muchos se familiarizan, pero en el ámbito educativo y de laboratorio son bastante usadas para bastantes procesos como:
+
+- Dispensación de solución
+- Mezcla de soluciones
+- Emulsificación
+- Recubrimientos dosificados
+- Enfriamiento de la solución
+- Electrohilado
+- Electropulverización
+- Microfluídica
+- Química del flujo
 
 ## Diagrama de Ishikawa
 ![Inexperience of decision makers (1)](https://github.com/user-attachments/assets/1b7dafea-8c6d-4358-9040-48e468b8287a)
