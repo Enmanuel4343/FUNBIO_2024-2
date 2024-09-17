@@ -53,7 +53,7 @@ Por ende se evidencia que la resistencia es directamente proporcional a la longi
 
 #### Difusión de Microfluidos:
 
-Movimiento de particulas de una mayor concentración a una menor hasta que la concentración media en todo el volumen sea la misma.
+Respecto a (Bharat, 2017, p. 492), es el movimiento de particulas de una mayor concentración a una menor hasta que la concentración media en todo el volumen sea la misma.
 
 Se presenta una relación entre la distancia recorrida por una partícula y el tiempo de difusión, mediante la siguiente ecuación:
 
@@ -61,7 +61,7 @@ Se presenta una relación entre la distancia recorrida por una partícula y el t
 
 Donde d es la distancia recorrida por la partícula, t el tiempo en el que puede recorrer esa distancia y D el coeficiente de difusión de la partícula.
 
-Usando la fórmula presentada se puede apreciar como puede llegar a influir la miniaturización de un sistema en el tiempo de difusión de un fluido [6]
+Usando la fórmula presentada se puede apreciar como puede llegar a influir la miniaturización de un sistema en el tiempo de difusión de un fluido.
 
 ## Diagrama de Ishikawa
 ![Inexperience of decision makers (1)](https://github.com/user-attachments/assets/1b7dafea-8c6d-4358-9040-48e468b8287a)
