@@ -24,7 +24,7 @@ Diseñada por JINLU, un fabricante de maquinaria para el procesamiento y envasad
 ![1000C-1](https://github.com/user-attachments/assets/4a3b6e35-1c12-4b64-a8d8-0da21cf1e3b4)
 
 ## Requerimientos funcionales.
-<img src=![Agregar un subtítulo](https://github.com/user-attachments/assets/91964dcc-b8d9-450d-b604-b04987abd379)" height="400">
+<img src=![Agregar un subtítulo](https://github.com/user-attachments/assets/91964dcc-b8d9-450d-b604-b04987abd379)" height="200">
 
 
 ### Referencias:
