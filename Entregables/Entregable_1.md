@@ -102,11 +102,11 @@ En 2012 se inauguro el laboratorio de microfluidica en la Universidad de Chile, 
 
 Advanced Microfluidics es una fundación Sueca fundada en 2014, dedicada a la fabricación de sistemas y componentes microfluidicos industriales y para laboratorio. Dentro de sus productos presenta una bomba de jeringa programable para laboratorio llamado LSPone, un sistema de dosificación de alta precisión diseñado como un dispositivo de sobremesa para aplicaciones de investigación académica de microfluidos automatizadas [10]. Si bien es un equipo calificado y muy bien implementado, presenta un costo por unidad que ronda los 4700 euros.
 
-## Diagrama de Ishikawa
+## 3. Diagrama de Ishikawa
 
 ![SmartSelect_20240917_160911_Canva](https://github.com/user-attachments/assets/4717c40a-32be-45fe-b4a9-eb69e3fe9aa1)
 
-## 3. Definicion de la problematica
+## 4. Definición de la problemática
 
 La alteración del sistema inmunológico debido a inmunodeficiencias representa un reto para el diagnóstico de la Tuberculosis 
 
