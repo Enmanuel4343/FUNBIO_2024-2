@@ -24,7 +24,7 @@ Diseñada por JINLU, un fabricante de maquinaria para el procesamiento y envasad
 <img src="https://github.com/user-attachments/assets/4a3b6e35-1c12-4b64-a8d8-0da21cf1e3b4" width="350" height="">
 
 ## Requerimientos funcionales.
-![Agregar un subtítulo](https://github.com/user-attachments/assets/3e01605f-0058-4657-97a1-33b7e1749926)
+![Agregar un subtítulo]([https://github.com/user-attachments/assets/3e01605f-0058-4657-97a1-33b7e1749926](https://github.com/user-attachments/assets/b3e9f444-ff28-403d-a95b-450fd85497a2))
 
 ### Referencias:
 [1] N. author found, “Bomba de jeringa ISPLab01 con infusión/extracción y panel táctil.” [Online]. Available: https://drifton.es/tienda-online/24-bombas-de-jeringa/2399-bomba-de-jeringa-isplab01-con-pantalla-taacutectil/#tabs-pane1
