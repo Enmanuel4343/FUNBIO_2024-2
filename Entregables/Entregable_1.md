@@ -111,17 +111,17 @@ Advanced Microfluidics es una fundación Sueca fundada en 2014, dedicada a la fa
 La alteración del sistema inmunológico debido a inmunodeficiencias representa un reto para el diagnóstico de la Tuberculosis 
 
 
-## 4. Contexto científico
-### 4.1 Low-cost feedback-controlled syringe pressure pumps for microfluidics application
+## 5. Contexto científico
+### 5.1 Low-cost feedback-controlled syringe pressure pumps for microfluidics application
 Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jeringa, sensor de presión y amplificador, microcontrolador y controlador del motor. El objetivo es obtener una bomba de bajo costo, con un control sensible y estable para diversos experimentos en chips microfluídicos [9].
 
 ![imagen_2024-09-17_154823714](https://github.com/user-attachments/assets/a250558a-fe00-449a-8ccd-fc18d300813b)
 
 
-### 4.2 
+### 5.2 
 
 
-## 5. Referencia Bibliograficas
+## 6. Referencia Bibliograficas
 [1] “Open Hardware”. SG Buzz. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://sg.com.mx/revista/open-hardware
 
 [2] “What is Arduino?” Arduino - Home. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://www.arduino.cc/en/Guide/Introduction
