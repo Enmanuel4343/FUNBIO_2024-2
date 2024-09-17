@@ -112,12 +112,13 @@ Se determino que hay un alto costo por unidad y de mantenimiento de las bombas d
 
 ## 5. Contexto científico
 ### 5.1 Low-cost feedback-controlled syringe pressure pumps for microfluidics application
-Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jeringa, sensor de presión y amplificador, microcontrolador y controlador del motor. El objetivo es obtener una bomba de bajo costo, con un control sensible y estable para diversos experimentos en chips microfluídicos [9].
+Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jeringa, sensor de presión y amplificador, microcontrolador y controlador del motor. El objetivo es obtener una bomba de bajo costo, con un control sensible y estable para diversos experimentos en chips microfluídicos [10].
 
 ![imagen_2024-09-17_154823714](https://github.com/user-attachments/assets/a250558a-fe00-449a-8ccd-fc18d300813b)
 
 
-### 5.2 
+### 5.2 An Intelligent Infusion Flow Controlled Syringe Infusion Pump
+Sistema que ayuda en la mejora en la lectura directa de la velocidad de infusión, como otros parámetro como detección de burbujas de aire [11].
 
 
 ## 6. Referencia Bibliográficas
@@ -137,6 +138,8 @@ Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jering
 
 [8] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
 
-[9] J. R. Lake, K. C. Heyde, and W. C. Ruder, "Low-cost feedback-controlled syringe pressure pumps for microfluidics applications," PLOS ONE 12(4), April 2017. https://doi.org/10.1371/journal.pone.0175089
+[9] “Laboratory Programmable Syringe Pump - LSPone”. Advanced Microfluidics. Accedido el 17 de septiembre de 2024. [En línea]. Disponible: https://amf.ch/product/lspone-laboratory-syringe-pump/
 
-[10] “Laboratory Programmable Syringe Pump - LSPone”. Advanced Microfluidics. Accedido el 17 de septiembre de 2024. [En línea]. Disponible: https://amf.ch/product/lspone-laboratory-syringe-pump/
+[10] J. R. Lake, K. C. Heyde, and W. C. Ruder, "Low-cost feedback-controlled syringe pressure pumps for microfluidics applications," PLOS ONE 12(4), April 2017. https://doi.org/10.1371/journal.pone.0175089
+
+[11] N. Merhi et al., "An Intelligent Infusion Flow Controlled Syringe Infusion Pump," 2019 31st International Conference on Microelectronics (ICM), Cairo, Egypt, 2019, pp. 48-52, doi: 10.1109/ICM48031.2019.9021516.
