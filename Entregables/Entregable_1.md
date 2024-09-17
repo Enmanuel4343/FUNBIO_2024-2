@@ -110,7 +110,7 @@ La alteración del sistema inmunológico debido a inmunodeficiencias representa 
 
 ## 4. Contexto científico
 ### 4.1 Low-cost feedback-controlled syringe pressure pumps for microfluidics application
-Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jeringa, sensor de presión y amplificador, microcontrolador y controlador del motor. El objetivo es obtener una bomba de bajo costo, con un control sensible y estable para diversos experimentos en chips microfluídicos.
+Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jeringa, sensor de presión y amplificador, microcontrolador y controlador del motor. El objetivo es obtener una bomba de bajo costo, con un control sensible y estable para diversos experimentos en chips microfluídicos [9].
 
 ![imagen_2024-09-17_154823714](https://github.com/user-attachments/assets/a250558a-fe00-449a-8ccd-fc18d300813b)
 
@@ -134,5 +134,7 @@ Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jering
 [7] Chang Kyu, B., & Kameel, A.-S. (2024). ELECTROPHORESIS. Wiley Analytical Science, 45(15-16), 1275. https://doi.org/10.1002/elps.201300205
 
 [8] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
+
+[9] J. R. Lake, K. C. Heyde, and W. C. Ruder, "Low-cost feedback-controlled syringe pressure pumps for microfluidics applications," PLOS ONE 12(4), April 2017. https://doi.org/10.1371/journal.pone.0175089
 
 
