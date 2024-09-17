@@ -35,7 +35,9 @@ Se pueden utilizar donde formulas para poder determinar el flujo laminar:
 
 Cuando Re<2300, se afirmar que se está trabajando con un fluido con flujo laminar, caso contrario se está trabajando con un fluido con flujo turbulento, claramente esto depende de los parámetros en los cuales se pondra a el fluido.
 
-
+[
+![SmartSelect_20240916_201025_Adobe Acrobat](https://github.com/user-attachments/assets/241a04ae-544d-46dc-9d83-00d1096c4f5c)
+](url)
 
 
 
