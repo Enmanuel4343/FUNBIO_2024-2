@@ -17,7 +17,8 @@ Segun Open Hardware, o hardware abierto, es cualquier dispositivo o componente c
 
 ### Desarrollo de la temática:
 
-
+La microfluídica es el campo de la ciencia dedicada al trabajo en escalas micrométricas, referidas a los 10 a la menos 6 metros, escalas sumamente pequeñas.
+Tambien se acepta la definicion enfocada en el aprovechamiento de las ventajas que proporcionan el uso y control del fluido a escalas inferios a la milimétrica. Cabe aclarar que las propiedades físicas cambian respecto a la escala convencional y que seria incorrecto afirmar que un sistema macroscópico se comportara igual que uno microscópico. 
 
 
 ## Diagrama de Ishikawa
@@ -41,6 +42,7 @@ La alteración del sistema inmunológico debido a inmunodeficiencias representa 
 
 [4] “Open-source at Prusa Research | Original Prusa 3D printers directly from Josef Prusa”. Prusa3D by Josef Prusa. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://www.prusa3d.com/page/open-source-at-prusa-research_236812/
 
+[5] F. Rivas, “Microfluidos: ¿cuánto hay de nuevo?”, RCF, vol. 25, n.º 2B, p. 1, 2008.
 
 
 
