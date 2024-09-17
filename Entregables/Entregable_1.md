@@ -18,7 +18,36 @@ Segun Open Hardware, o hardware abierto, es cualquier dispositivo o componente c
 ### Desarrollo de la temática:
 
 La microfluídica es el campo de la ciencia dedicada al trabajo en escalas micrométricas, referidas a los 10 a la menos 6 metros, escalas sumamente pequeñas.
-Tambien se acepta la definicion enfocada en el aprovechamiento de las ventajas que proporcionan el uso y control del fluido a escalas inferios a la milimétrica. Cabe aclarar que las propiedades físicas cambian respecto a la escala convencional y que seria incorrecto afirmar que un sistema macroscópico se comportara igual que uno microscópico. 
+
+Tambien se acepta la definición enfocada en el aprovechamiento de las ventajas que proporcionan el uso y control del fluido a escalas inferios a la milimétrica. Cabe aclarar que las propiedades físicas cambian respecto a la escala convencional y que seria incorrecto afirmar que un sistema macroscópico se comportara igual que uno microscópico [5].
+
+Es importante también conocer el porque representa un beneficio trabajar con microfluidos y no fluidos convencionalmente hablando,
+
+Para el correcto estudio de sistemas microfluídicos y de los fluidos con los que se trabajaran, se deben de tener en cuenta principios físicos que si bien en la escala convencional no presentan una gran importancia, a la hora de evaluar fluidos en ínfimas proporciones, se vuelve dominantes y fundamentales, debido a que ayudaran a poder controlar de manera eficiente al fluido.
+
+#### Flujo laminar:
+
+Al trabajarse con dimensiones de canal tan pequeñas, las paredes tienen muy poca distancia entre si, lo cual permite que las particulas del fluido fluyan en capas adyacentes unas con otras.
+
+Se pueden utilizar donde formulas para poder determinar el flujo laminar:
+
+##### Número de Reynolds (Re):
+
+Cuando Re<2300, se afirmar que se está trabajando con un fluido con flujo laminar, caso contrario se está trabajando con un fluido con flujo turbulento, claramente esto depende de los parámetros en los cuales se pondra a el fluido.
+
+
+
+
+
+
+
+
+
+
+
+Resulta de una formula que relaciona 
+
+
 
 
 ## Diagrama de Ishikawa
@@ -42,7 +71,7 @@ La alteración del sistema inmunológico debido a inmunodeficiencias representa 
 
 [4] “Open-source at Prusa Research | Original Prusa 3D printers directly from Josef Prusa”. Prusa3D by Josef Prusa. Accedido el 16 de septiembre de 2024. [En línea]. Disponible: https://www.prusa3d.com/page/open-source-at-prusa-research_236812/
 
-[5] F. Rivas, “Microfluidos: ¿cuánto hay de nuevo?”, RCF, vol. 25, n.º 2B, p. 1, 2008.
+[5] F. Rivas, “Microfluidos: ¿cuánto hay de nuevo?”, RCF, vol. 25, n.º 2B, p. 142-143, 2008.
 
 
 
