@@ -94,6 +94,9 @@ Ademas, en Peru hay una gran cantidad de empresas dedicadas a la fabricacion de 
 
 ### Contexto Mundial:
 
+
+
+ejemplo de citas:[5] Autor(es), "Título de la página," Nombre del sitio web. [En línea]. Disponible en: URL. [Fecha de acceso: Mes, Día, Año].
 mananananaan
 
 ## Diagrama de Ishikawa
