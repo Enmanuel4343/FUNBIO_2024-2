@@ -29,6 +29,10 @@ Un ejemplo concreto de esta situación en Perú es la adquisición por parte de 
 ## Características del Prototipo
 
 ## Beneficios
+### Guías lineales
+ - Mayor manejo y precisión: perfecto para los experimentos con microfluidos
+ - Bajo mantenimiento: debido a un baja fricción no require un mantenimiento constante en comparación con las guias de varilla, debido a su desgaste acelerado
+ - Mayor durabilidad: debido a sus materiales de fabricación
 
 ## Viabilidad Técnica
 
