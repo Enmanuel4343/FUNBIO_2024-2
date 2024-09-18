@@ -47,6 +47,6 @@ Objetivos especificos:
 Hay muchos tipos de bombas de microfluidos en el mercado, y todas tienen caracteristicas distintas, lo que hace que se lleguen a usar en diferentes áreas. Sin embargo, para nuestro proyecto se elijio la bomba de jeringa ya que esta es la que nos permite tener un mayor control del flujo de los liquidos a volumenes pequeños. Esto las diferencia del resto de bombas que tambien permiten manejar un flujo continuo, pero que no son tan precisas al momento de medir volumenes pequeños como los que se manejan cuando se va a experimentar.  
 
 ## Alineación con el Problema
-
+Para la creacion de nuestro prototipo se usaran componentes basicos y accesibles en su mayoria, lo cual permitira reducir los costos del prototipado
 # 4. Resumen 🤪
 
