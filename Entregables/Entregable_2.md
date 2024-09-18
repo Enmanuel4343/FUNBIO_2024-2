@@ -34,13 +34,13 @@ Este es un dispositivo diseñado específicamente para la adición controlada de
 
 La bomba de jeringa utiliza un mecanismo impulsor que desplaza el émbolo de la jeringa a lo largo de su cilindro, garantizando una dosificación precisa de los reactivos. Lo innovador de este dispositivo es su capacidad para detectar en tiempo real las propiedades físicas de la mezcla de reacción, como el pH o la temperatura. Estos datos son procesados por un circuito de control lógico programable que ajusta automáticamente la velocidad de administración del reactivo, según los cambios observados en la mezcla.
 
-Con estas características, la bomba ofrece un control automatizado altamente preciso sobre las reacciones químicas, lo que permite optimizar el desarrollo de la reacción y reducir el margen de error humano.
+Con estas características, la bomba ofrece un control automatizado altamente preciso sobre las reacciones químicas, lo que permite optimizar el desarrollo de la reacción y reducir el margen de error humano[4].
 
 
 <img src="https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/noche.png" width="350" height="">
 
 ## 2. CN109630401B - Syringe pump for micro-fluidic device
-La patente presenta una bomba de jeringa integrada para sistemas microfluídicos que mejora la estabilidad y el control en comparación con las bombas externas. Esta bomba consta de un barril con una cavidad y una abertura con un tope, un émbolo interno con una porción de retención, y una barra de control que se acopla a la porción de retención del émbolo. Gracias a esta configuración, la barra de control impulsa el émbolo de manera alternante, creando presiones positiva y negativa para mover líquidos. Este diseño previene riesgos de fugas y contaminación cruzada al mantener el líquido sellado dentro del barril. Además, la bomba se integra directamente en el sustrato del dispositivo microfluídico y puede incluir sensores para monitorear el flujo y evitar la entrada de aire en los microcanales.
+La patente presenta una bomba de jeringa integrada para sistemas microfluídicos que mejora la estabilidad y el control en comparación con las bombas externas. Esta bomba consta de un barril con una cavidad y una abertura con un tope, un émbolo interno con una porción de retención, y una barra de control que se acopla a la porción de retención del émbolo. Gracias a esta configuración, la barra de control impulsa el émbolo de manera alternante, creando presiones positiva y negativa para mover líquidos. Este diseño previene riesgos de fugas y contaminación cruzada al mantener el líquido sellado dentro del barril. Además, la bomba se integra directamente en el sustrato del dispositivo microfluídico y puede incluir sensores para monitorear el flujo y evitar la entrada de aire en los microcanales[5].
 
 <img src="https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/noche2.png" width="350" height="">
 
@@ -63,4 +63,7 @@ La patente presenta una bomba de jeringa integrada para sistemas microfluídicos
 
 [3] N. author found, “NJP-1000C Liquid Capsule Filling Machine - JL - JINLUPACKING.” [Online]. Available: https://www.jinlupacking.com/product/njp-1000c-liquid-capsule-filling-machine/
 
+[4]"Injection device with prefilled syringe," WO2005016411A1, World Patent, Feb. 24, 2005. [Online]. Available: https://patentscope.wipo.int/search/es/detail.jsf?docId=WO2005016411&_cid=P11-M1704Z-06885-2.
+
+[5]"Microfluidic syringe pump," CN109630401B, China Patent, Jun. 18, 2021. [Online]. Available: https://patents.google.com/patent/CN109630401B/en?q=(microfluidic+syringe+pump)&oq=microfluidic+syringe+pump. 
 
