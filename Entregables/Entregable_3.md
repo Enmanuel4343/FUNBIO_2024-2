@@ -34,11 +34,16 @@ Además, la fricción ejercida por el pusher block en una guía lineal es más f
 A diferencia de los husillos, que requieren un mantenimiento más constante, nuestro dispositivo será de código abierto para que cualquier persona pueda mejorarlo o reemplazar piezas sin necesidad de adquirir un nuevo dispositivo. La combinación de los principios del husillo y la guía lineal proporciona un control preciso del movimiento y la cantidad de líquido inyectado, mientras que la guía lineal asegura un movimiento suave y estable, evitando desalineaciones y reduciendo la necesidad de mantenimiento frecuente.
 ## Beneficios
 ### Guías lineales
--Bajo costo: El dispositivo está diseñado para ser accesible para instituciones con recursos limitados
+-Bajo costo: El dispositivo está diseñado para ser accesible para instituciones con recursos limitados.
+
 -Fácil armado y modulación: simplicidad en su ensamblaje y la posibilidad de modificar componentes.
+
 -Mayor precisión: Las guías lineales mejoran significativamente la precisión del movimiento, lo que es esencial en experimentos de microfluidos.
+
 -Baja fricción: El uso de guías lineales permite un control más preciso sobre la fricción.
+
 -Durabilidad y estabilidad: El sistema es más duradero y estable, con la capacidad de realizar movimientos rápidos y precisos, mejorando la productividad.
+
 -Menor necesidad de mantenimiento: En comparación con los husillos, que requieren mantenimiento constante, la guía lineal ofrece un movimiento suave y estable, reduciendo la necesidad de ajustes frecuentes.
 
 ## Viabilidad Técnica
