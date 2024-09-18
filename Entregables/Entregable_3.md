@@ -2,6 +2,20 @@
 
 ## Contexto 
 
+La microfluidica se encarga de aprovechar las propiedades fisicas que proporcionan el uso y control de fluidos en escalas inferiores a la milimétrica. 
+
+Partiendo de la base de que las fuerzas viscosas son las dominantes en escalas tan pequeñas, actualmente la microfluidica se utiliza para bastantes ambitos de la ciencia, con aplicaciones tanto para la Química, la Física o la Biologia, pero una de las mas importantes y que se enfoca en la pura experimentación de los fenómenos ligados a este mundo, es su aplicación para los laboratorios en un ámbito educativo.
+
+Dispositivos y equipos usados para la microfluidica hay bastantes, para el contexto de laboratorio, hay dispositivos indispensables, dentro de estos están las bombas de jeringa, las cuales a diferencia de su contraparte las bombas peristalticas, son mucho mas frecuentes en este campo debido a su mejor rendimiento para el control de fluidos a microescala.
+
+En el contexto peruano, se presenta una necesidad creciente de bombas de jeringa para microfluidos por parte de universidades y si bien hay universidades que a dia de hoy ya tienen laboratorios de microfluidica con sus respectivas bombas de jeringa, la única manera de conseguirlas es mediante la importación de empresas o fundaciones que las fabriquen, el precio rondando usualmente los 4000 euros. 
+
+El alto costo puedo no resultar conveniente ni rentable para estas instituciones, debido a que si bien son indispensables para el control de los fluidos, en este campo son usualmente pensados para experimentos y procesos rapidos que requieren segundos para poder concluirse.
+
+Cabe considerar que un alto costo tanto por unidad como de mantenimiento, implica una impedancia a su masificación, puesto que para las universidades, instituciones educativas o investigadores independientes no resulta práctico ni rentable un costo tan alto para experimentos y procesos tan cortos, sin embargo, para el correcto estudio y control de los fluidos a microescalas, estas bombas son indispensables.
+
+Este problema es relevante en el campo de la biomédica principalmente por las distintas aplicaciones que pueden llegar a tener las bombas de jeringa en los laboratorios e investigaciónes, ejemplos claros son los lab-on-a-chip.
+
 ## Definición del problema
 El problema específico que se está tratando de resolver es el alto costo de adquisición y mantenimiento de las bombas de jeringa para microfluidos en entornos de laboratorio e investigación, particularmente en contextos educativos y en países en desarrollo como Perú.
 ## Impacto
