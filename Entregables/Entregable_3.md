@@ -27,7 +27,11 @@ Un ejemplo concreto de esta situación en Perú es la adquisición por parte de 
   Nuestra propuesta busca reducir los costos de fabricación mediante el uso de microcontroladores como Arduino, impresión 3D y motores accesibles en el mercado. De esta manera, pretendemos mejorar el acceso a bombas de jeringa para microfluidos, las cuales suelen tener precios poco accesibles en comparación con las necesidades de los experimentos que requieren resultados rápidos. Además, buscamos aumentar la precisión de estas bombas mediante la incorporación de guías lineales, lo cual es esencial para garantizar la exactitud en los experimentos con microfluidos.
   
 ## Características del Prototipo
+Las características de mi dispositivo están orientadas a ser de bajo costo para poder llegar a más instituciones con carencias de instrumentos en sus laboratorios. Será de fácil armado y modificará los rieles laterales comunes por guías lineales para una mayor precisión en el movimiento. Estas guías permiten movimientos muy precisos, lo cual es beneficioso en aplicaciones de microfluidos, donde las variaciones mínimas en el flujo pueden afectar los resultados experimentales.
 
+Además, la fricción ejercida por el pusher block en una guía lineal es más fácil de controlar, lo que facilita la regulación de la velocidad del émbolo de la jeringa. Esto hace que el sistema sea más duradero, estable y capaz de realizar movimientos rápidos con alta precisión y repetibilidad, mejorando así la productividad.
+
+A diferencia de los husillos, que requieren un mantenimiento más constante, nuestro dispositivo será de código abierto para que cualquier persona pueda mejorarlo o reemplazar piezas sin necesidad de adquirir un nuevo dispositivo. La combinación de los principios del husillo y la guía lineal proporciona un control preciso del movimiento y la cantidad de líquido inyectado, mientras que la guía lineal asegura un movimiento suave y estable, evitando desalineaciones y reduciendo la necesidad de mantenimiento frecuente.
 ## Beneficios
 ### Guías lineales
  - Mayor manejo y precisión: perfecto para los experimentos con microfluidos
