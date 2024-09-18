@@ -13,10 +13,7 @@
 ## 2.2 Características del Prototipo
 
 ## 2.3 Beneficios
-### Encapsulamiento
-- Mayor estabilidad
-- Controlada tasa de descarga y permeabilidad
-- Aumento de la biodisponibilidad de yodo
+
 ## 2.4 Viabilidad Técnica
 
 # 3. Coherencia 🤫
