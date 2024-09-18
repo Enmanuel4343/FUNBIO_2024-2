@@ -21,13 +21,14 @@ El problema específico que se está tratando de resolver es el alto costo de ad
 
 # 2. Propuesta de Solución 🤓
 
-## 2.1 Descripción de la Solución
+## Descripción de la Solución
+  Nuestra propuesta busca reducir los costos de fabricación mediante el uso de microcontroladores como Arduino, impresión 3D y motores accesibles en el mercado. De esta manera, pretendemos mejorar el acceso a bombas de jeringa para microfluidos, las cuales suelen tener precios poco accesibles en comparación con las necesidades de los experimentos que requieren resultados rápidos. Además, buscamos aumentar la precisión de estas bombas mediante la incorporación de guías lineales, lo cual es esencial para garantizar la exactitud en los experimentos con microfluidos.
   
-## 2.2 Características del Prototipo
+## Características del Prototipo
 
-## 2.3 Beneficios
+## Beneficios
 
-## 2.4 Viabilidad Técnica
+## Viabilidad Técnica
 
 # 3. Coherencia 🤫
 
