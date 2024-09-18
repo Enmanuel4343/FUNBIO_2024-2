@@ -8,16 +8,16 @@
 
 # 2. Propuesta de Solución 🤓
 
-## Descripción de la Solución
+## 2.1 Descripción de la Solución
   
-## Características del Prototipo
+## 2.2 Características del Prototipo
 
-## Beneficios
+## 2.3 Beneficios
 ### Encapsulamiento
 - Mayor estabilidad
 - Controlada tasa de descarga y permeabilidad
 - Aumento de la biodisponibilidad de yodo
-## Viabilidad Técnica
+## 2.4 Viabilidad Técnica
 
 # 3. Coherencia 🤫
 
