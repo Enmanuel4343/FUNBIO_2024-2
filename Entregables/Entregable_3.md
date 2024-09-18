@@ -43,16 +43,17 @@ Por viabilidad técnica, se optará por usar guías lineales junto con un husill
 
 ### Tabla de Componentes
 
-| **Producto**            | **Precio**    | **Especificaciones**                                         | **Foto** |
-|-------------------------|---------------|---------------------------------------------------------------|----------|
-| Motor paso a paso       | 20 $ aprox    | El motor se usará para convertir el movimiento circular en lineal. |          |
-| Husillo                 | 15 $ aprox    | El husillo debe tener al menos el tamaño de la jeringa.     |          |
-| Acoplador flexible       | 10 $ aprox    | Conectará el husillo al eje del motor paso a paso.           |          |
-| Pusher block            | Impresión 3D| Encargado de empujar el émbolo de la jeringa.                |          |
-| Soporte                 | Impresión 3D| Se utilizarán recursos para impresión 3D.                    |          |
-| Arduino                 | 40 $          | Controlará el motor paso a paso mediante código.             |          |
-| Fuente de alimentación  | 10 $          | Necesaria para proporcionar un voltaje de 12V al motor.      |          |
-| Controlador del motor   | 5 $           | Se usará un DRV8825 o A4988 para configurar el micro-paso, importante en microfluidos. |          |
+| **Producto**            | **Precio**    | **Especificaciones**                                         |
+|-------------------------|---------------|---------------------------------------------------------------|
+| Motor paso a paso       | 20 $ aprox    | El motor se usará para convertir el movimiento circular en lineal. |
+| Husillo                 | 15 $ aprox    | El husillo debe tener al menos el tamaño de la jeringa.     |          
+| Acoplador flexible       | 10 $ aprox    | Conectará el husillo al eje del motor paso a paso.           |          
+| Pusher block            | Impresión 3D| Encargado de empujar el émbolo de la jeringa.                |          
+| Soporte                 | Impresión 3D| Se utilizarán recursos para impresión 3D.                    |          
+| Arduino                 | 40 $          | Controlará el motor paso a paso mediante código.             |         
+| Fuente de alimentación  | 10 $          | Necesaria para proporcionar un voltaje de 12V al motor.      |          
+| Controlador del motor   | 5 $           | Se usará un DRV8825 o A4988 para configurar el micro-paso, importante en microfluidos. |          
+| Patin de guias linelaes | 30$          | Los patines iran en las guiaas lineales se moveran junto con la jeringa||
 # 3. Coherencia 🤫
 
 ## Contexto del Proyecto
