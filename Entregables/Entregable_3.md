@@ -6,7 +6,7 @@ La microfluidica se encarga de aprovechar las propiedades fisicas que proporcion
 
 Partiendo de la base de que las fuerzas viscosas son las dominantes en escalas tan pequeñas, actualmente la microfluidica se utiliza para bastantes ambitos de la ciencia, con aplicaciones tanto para la Química, la Física o la Biologia, pero una de las mas importantes y que se enfoca en la pura experimentación de los fenómenos ligados a este mundo, es su aplicación para los laboratorios en un ámbito educativo.
 
-Dispositivos y equipos usados para la microfluidica hay bastantes, para el contexto de laboratorio, hay dispositivos indispensables, dentro de estos están las bombas de jeringa, las cuales a diferencia de su contraparte las bombas peristalticas, son mucho mas frecuentes en este campo debido a su mejor rendimiento para el control de fluidos a microescala.
+Dispositivos y equipos usados para la microfluidica hay bastantes, para el contexto de laboratorio, hay dispositivos indispensables, dentro de estos están las bombas de jeringa, las cuales a diferencia de su contraparte las bombas peristalticas, son mucho mas frecuentes en este campo debido a su mejor rendimiento para el control de fluidos a microescala [2].
 
 En el contexto peruano, se presenta una necesidad creciente de bombas de jeringa para microfluidos por parte de universidades y si bien hay universidades que a dia de hoy ya tienen laboratorios de microfluidica con sus respectivas bombas de jeringa, la única manera de conseguirlas es mediante la importación de empresas o fundaciones que las fabriquen, el precio rondando usualmente los 4000 euros. 
 
@@ -82,6 +82,7 @@ Por ende, el prototipo atiende a la problemática y resulve directamente el prob
 
 # 5. Referencias Bibliográficas
 [1] F. Rivas, “Microfluidos: ¿cuánto hay de nuevo?”, RCF, vol. 25, n.º 2B, p. 142-143, 2008.
-[2] “Low-cost feedback-controlled syringe pressure pumps for microfluidics applications”. PubMed Central (PMC). Accedido el 18 de septiembre de 2024. [En línea]. 
+[2] Chang Kyu, B., & Kameel, A.-S. (2024). ELECTROPHORESIS. Wiley Analytical Science, 45(15-16), 1275. https://doi.org/10.1002/elps.201300205
+[3] “Low-cost feedback-controlled syringe pressure pumps for microfluidics applications”. PubMed Central (PMC). Accedido el 18 de septiembre de 2024. [En línea]. 
 Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5378403/#pone.0175089.ref012
-[3] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
+[4] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
