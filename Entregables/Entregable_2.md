@@ -18,7 +18,7 @@ Una de las principales desventajas de este dispositivo es su costo, que es aprox
 
 ## 3. Kamoer-bomba de jeringa multiflujo KSY30 de 50UL ~ 5ml
 
-La bomba de jeringa multiflujo Kamoer KSY30 es un dispositivo compacto y versátil diseñado para aplicaciones de laboratorio que requieren un control preciso del flujo de fluidos. Puede utilizar jeringas con volúmenes que van desde 50 µL hasta 5 mL y ofrece una alta precisión con una exactitud del ±1%. La bomba utiliza un motor paso a paso para mover el pistón de la jeringa con precisión, y la velocidad de bombeo.
+La bomba de jeringa multiflujo Kamoer KSY30 es un dispositivo compacto y versátil diseñado para aplicaciones de laboratorio que requieren un control preciso del flujo de fluidos. Puede utilizar jeringas con volúmenes que van desde 50 µL hasta 5 mL y ofrece una alta precisión. La bomba utiliza un motor paso a paso para mover el pistón de la jeringa con precisión, y la velocidad de bombeo.
 
 El dispositivo cuenta con una interfaz de control intuitiva con pantalla LCD, que permite configurar parámetros como el volumen dispensado y la velocidad de bombeo. Es compatible con múltiples canales, lo que permite la dispensación de varios fluidos simultáneamente o en secuencia. Este modelo es ideal para aplicaciones que requieren alta precisión en el manejo de líquidos y se adapta a diferentes configuraciones de laboratorio gracias a su diseño compacto y materiales resistentes a productos químicos.[3].
 
