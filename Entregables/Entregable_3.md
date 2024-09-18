@@ -34,9 +34,12 @@ Además, la fricción ejercida por el pusher block en una guía lineal es más f
 A diferencia de los husillos, que requieren un mantenimiento más constante, nuestro dispositivo será de código abierto para que cualquier persona pueda mejorarlo o reemplazar piezas sin necesidad de adquirir un nuevo dispositivo. La combinación de los principios del husillo y la guía lineal proporciona un control preciso del movimiento y la cantidad de líquido inyectado, mientras que la guía lineal asegura un movimiento suave y estable, evitando desalineaciones y reduciendo la necesidad de mantenimiento frecuente.
 ## Beneficios
 ### Guías lineales
- - Mayor manejo y precisión: perfecto para los experimentos con microfluidos
- - Bajo mantenimiento: debido a un baja fricción no require un mantenimiento constante en comparación con las guias de varilla, degaste acelerado
- - Mayor durabilidad: debido a sus materiales de fabricación
+-Bajo costo: El dispositivo está diseñado para ser accesible para instituciones con recursos limitados
+-Fácil armado y modulación: simplicidad en su ensamblaje y la posibilidad de modificar componentes.
+-Mayor precisión: Las guías lineales mejoran significativamente la precisión del movimiento, lo que es esencial en experimentos de microfluidos.
+-Baja fricción: El uso de guías lineales permite un control más preciso sobre la fricción.
+-Durabilidad y estabilidad: El sistema es más duradero y estable, con la capacidad de realizar movimientos rápidos y precisos, mejorando la productividad.
+-Menor necesidad de mantenimiento: En comparación con los husillos, que requieren mantenimiento constante, la guía lineal ofrece un movimiento suave y estable, reduciendo la necesidad de ajustes frecuentes.
 
 ## Viabilidad Técnica
 Por viabilidad técnica, se optará por usar guías lineales junto con un husillo y su tuerca correspondiente. Un riel paralelo a la guía lineal se conectará al husillo, que a su vez estará unido a un motor paso a paso. Este motor será el encargado de dar las órdenes de rotación para el desplazamiento del husillo mediante un acoplador flexible. El pusher block se ubicará en la parte de empuje de la jeringa, y el soporte para la jeringa se puede fabricar mediante impresión 3D o corte láser de un material robusto. Un Arduino se utilizará para controlar el motor paso a paso con su código correspondiente.
