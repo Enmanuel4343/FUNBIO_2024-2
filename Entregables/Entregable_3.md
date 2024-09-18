@@ -92,8 +92,12 @@ La propuesta del proyecto busca desarrollar una bomba de jeringa casera y de baj
 
 # 5. Referencias Bibliográficas
 [1] F. Rivas, “Microfluidos: ¿cuánto hay de nuevo?”, RCF, vol. 25, n.º 2B, p. 142-143, 2008.
+
 [2] Chang Kyu, B., & Kameel, A.-S. (2024). ELECTROPHORESIS. Wiley Analytical Science, 45(15-16), 1275. https://doi.org/10.1002/elps.201300205
+
 [3] “Laboratory Programmable Syringe Pump - LSPone”. Advanced Microfluidics. Accedido el 17 de septiembre de 2024. [En línea]. Disponible: https://amf.ch/product/lspone-laboratory-syringe-pump/
+
 [4] “Low-cost feedback-controlled syringe pressure pumps for microfluidics applications”. PubMed Central (PMC). Accedido el 18 de septiembre de 2024. [En línea]. 
 Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5378403/#pone.0175089.ref012
+
 [5] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
