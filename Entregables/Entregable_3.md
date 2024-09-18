@@ -47,7 +47,11 @@ Objetivos especificos:
 Hay muchos tipos de bombas de microfluidos en el mercado, y todas tienen caracteristicas distintas, lo que hace que se lleguen a usar en diferentes áreas. Sin embargo, para nuestro proyecto se elijio la bomba de jeringa ya que esta es la que nos permite tener un mayor control del flujo de los liquidos a volumenes pequeños. Esto las diferencia del resto de bombas que tambien permiten manejar un flujo continuo, pero que no son tan precisas al momento de medir volumenes pequeños como los que se manejan cuando se va a experimentar.  
 
 ## Alineación con el Problema
-Para la creacion de nuestro prototipo se usaran componentes basicos y accesibles en su mayoria, lo cual permitira reducir los costos del prototipado
+La problemática establecio que los costos por equipo y por mantenimiento del equipo eran muy altos, lo cual en consecuencia para el contexto peruano resulta no rentable, debido a que sus fines de uso en laboratorio es para la experimentos y procesos cortos.
+
+El prototipo presentado busca economizar y reducir los costos de fabricación de las bombas de jeringa enfocadas en el uso de laboratorio, para asi resultar mas accequibles no solo en el ámbito de laboratorio universitario, si no también masificarse a todo tipo de instituciones e investigadores independientes.
+
+El prototipo atiende a la problemática y resulve directamente el problema de altos costos.
 # 4. Resumen 🤪
 
 #5. Referencias Bibliográficas
