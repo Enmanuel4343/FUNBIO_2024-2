@@ -13,7 +13,7 @@ Segun Open Hardware, o hardware abierto, es cualquier dispositivo o componente c
 
  ## 2. Análasis de la temática:
 
-### Definición de terminos clave: Microfluidos, Bomba de microfluidos, Bomba de jeringa, Preparación de mezclas
+### Definición de terminos clave: Microfluidos, Bomba de microfluidos, Bomba de jeringa
 
 ### Desarrollo de la temática:
 
