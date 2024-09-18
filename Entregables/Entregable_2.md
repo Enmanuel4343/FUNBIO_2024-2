@@ -16,12 +16,14 @@ Una de las principales desventajas de este dispositivo es su costo, que es aprox
 
 <img src="https://github.com/user-attachments/assets/b9955c1f-d0b1-4f42-8620-19cd869916ee" width="350" height="">
 
-## 3. Máquina llenadora de cápsulas líquidas NJP-1000C
-Esta máquina es ampliamente utilizada en la industria farmacéutica para la fabricación de cápsulas de gelatina blanda (softgels) y opera de manera automática, sin necesidad de asistencia humana. Su alta precisión y eficiencia permiten producir grandes cantidades de cápsulas, con un costo aproximado de EUR 20,000, aunque el precio puede variar según las especificaciones.
+## 3. Kamoer-bomba de jeringa multiflujo KSY30 de 50UL ~ 5ml
 
-Diseñada por JINLU, un fabricante de maquinaria para el procesamiento y envasado de productos farmacéuticos, esta máquina permite el secado vertical de las cápsulas, optimizando el proceso. Tiene una capacidad de producción de hasta 60,000 piezas por hora. A pesar de su alta precisión, el costo, el mantenimiento y la necesidad de personal especializado son desventajas significativas. Además, la máquina no es transportable, a diferencia de las bombas de jeringa. Sin embargo, sería la solución ideal para resolver problemas de precisión en el llenado de cápsulas[3].
+La bomba de jeringa multiflujo Kamoer KSY30 es un dispositivo compacto y versátil diseñado para aplicaciones de laboratorio que requieren un control preciso del flujo de fluidos. Puede utilizar jeringas con volúmenes que van desde 50 µL hasta 5 mL y ofrece una alta precisión con una exactitud del ±1%. La bomba utiliza un motor paso a paso para mover el pistón de la jeringa con precisión, y la velocidad de bombeo.
 
-<img src="https://github.com/user-attachments/assets/4a3b6e35-1c12-4b64-a8d8-0da21cf1e3b4" width="350" height="">
+El dispositivo cuenta con una interfaz de control intuitiva con pantalla LCD, que permite configurar parámetros como el volumen dispensado y la velocidad de bombeo. Es compatible con múltiples canales, lo que permite la dispensación de varios fluidos simultáneamente o en secuencia. Este modelo es ideal para aplicaciones que requieren alta precisión en el manejo de líquidos y se adapta a diferentes configuraciones de laboratorio gracias a su diseño compacto y materiales resistentes a productos químicos.[3].
+
+
+<img src="https://github.com/user-attachments/assets/9e5af69d-213a-4c08-ba1c-6010c44dda5e" width="350" height="">
 
 ## Requerimientos funcionales.
 ![Agregar un subtítulo]([https://github.com/user-attachments/assets/3e01605f-0058-4657-97a1-33b7e1749926](https://github.com/user-attachments/assets/b3e9f444-ff28-403d-a95b-450fd85497a2))
