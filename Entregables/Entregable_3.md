@@ -3,7 +3,7 @@
 ## Contexto 
 
 ## Definición del problema
-
+El problema específico que se está tratando de resolver es el alto costo de adquisición y mantenimiento de las bombas de jeringa para microfluidos en entornos de laboratorio e investigación, particularmente en contextos educativos y en países en desarrollo como Perú.
 ## Impacto
 
 # 2. Propuesta de Solución 🤓
