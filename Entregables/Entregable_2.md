@@ -26,8 +26,10 @@ El dispositivo cuenta con una interfaz de control intuitiva con pantalla LCD, qu
 <img src="https://github.com/user-attachments/assets/9e5af69d-213a-4c08-ba1c-6010c44dda5e" width="350" height="">
 
 
-#PATENTES
-## 1. WO2005016411 - SYRINGE PUMP
+
+
+# PATENTES
+## 1. WO2005016411 - Syringe pump
 Este es un dispositivo diseñado específicamente para la adición controlada de reactivos en reacciones químicas, mediante una bomba de jeringa compacta, portátil e inalámbrica. Ideal para laboratorios, su tamaño reducido facilita el manejo práctico en diversas aplicaciones de investigación.
 
 La bomba de jeringa utiliza un mecanismo impulsor que desplaza el émbolo de la jeringa a lo largo de su cilindro, garantizando una dosificación precisa de los reactivos. Lo innovador de este dispositivo es su capacidad para detectar en tiempo real las propiedades físicas de la mezcla de reacción, como el pH o la temperatura. Estos datos son procesados por un circuito de control lógico programable que ajusta automáticamente la velocidad de administración del reactivo, según los cambios observados en la mezcla.
@@ -37,9 +39,23 @@ Con estas características, la bomba ofrece un control automatizado altamente pr
 
 <img src="https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/noche.png" width="350" height="">
 
-#Requerimientos funcionales.
-![Agregar un subtítulo]([https://github.com/user-attachments/assets/3e01605f-0058-4657-97a1-33b7e1749926](https://github.com/user-attachments/assets/b3e9f444-ff28-403d-a95b-450fd85497a2))
+## 2. CN109630401B - Syringe pump for micro-fluidic device
+La patente presenta una bomba de jeringa integrada para sistemas microfluídicos que mejora la estabilidad y el control en comparación con las bombas externas. Esta bomba consta de un barril con una cavidad y una abertura con un tope, un émbolo interno con una porción de retención, y una barra de control que se acopla a la porción de retención del émbolo. Gracias a esta configuración, la barra de control impulsa el émbolo de manera alternante, creando presiones positiva y negativa para mover líquidos. Este diseño previene riesgos de fugas y contaminación cruzada al mantener el líquido sellado dentro del barril. Además, la bomba se integra directamente en el sustrato del dispositivo microfluídico y puede incluir sensores para monitorear el flujo y evitar la entrada de aire en los microcanales.
 
+<img src="https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/noche2.png" width="350" height="">
+
+
+# Requerimientos funcionales
+
+
+![Agregar un subtítulo](https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/imagen_2024-09-18_015442582.png)
+
+
+
+# Requerimientos no funcionales
+
+
+![Agregar un subtítulo](https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/noche4.jpg)
 ### Referencias:
 [1] N. author found, “Bomba de jeringa ISPLab01 con infusión/extracción y panel táctil.” [Online]. Available: https://drifton.es/tienda-online/24-bombas-de-jeringa/2399-bomba-de-jeringa-isplab01-con-pantalla-taacutectil/#tabs-pane1
 
