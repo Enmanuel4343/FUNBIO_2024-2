@@ -50,3 +50,6 @@ Hay muchos tipos de bombas de microfluidos en el mercado, y todas tienen caracte
 Para la creacion de nuestro prototipo se usaran componentes basicos y accesibles en su mayoria, lo cual permitira reducir los costos del prototipado
 # 4. Resumen 🤪
 
+#5. Referencias Bibliográficas
+[1] “Low-cost feedback-controlled syringe pressure pumps for microfluidics applications”. PubMed Central (PMC). Accedido el 18 de septiembre de 2024. [En línea]. 
+Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5378403/#pone.0175089.ref012
