@@ -8,7 +8,7 @@ Partiendo de la base de que las fuerzas viscosas son las dominantes en escalas t
 
 Dispositivos y equipos usados para la microfluidica hay bastantes, para el contexto de laboratorio, hay dispositivos indispensables, dentro de estos están las bombas de jeringa, las cuales a diferencia de su contraparte las bombas peristalticas, son mucho mas frecuentes en este campo debido a su mejor rendimiento para el control de fluidos a microescala [2].
 
-En el contexto peruano, se presenta una necesidad creciente de bombas de jeringa para microfluidos por parte de universidades y si bien hay universidades que a dia de hoy ya tienen laboratorios de microfluidica con sus respectivas bombas de jeringa, la única manera de conseguirlas es mediante la importación de empresas o fundaciones que las fabriquen, el precio rondando usualmente los 4000 euros. 
+En el contexto peruano, se presenta una necesidad creciente de bombas de jeringa para microfluidos por parte de universidades y si bien hay universidades que a dia de hoy ya tienen laboratorios de microfluidica con sus respectivas bombas de jeringa, la única manera de conseguirlas es mediante la importación de empresas o fundaciones que las fabriquen, el precio rondando usualmente los 4000 euros [3].
 
 El alto costo puedo no resultar conveniente ni rentable para estas instituciones, debido a que si bien son indispensables para el control de los fluidos, en este campo son usualmente pensados para experimentos y procesos rapidos que requieren segundos para poder concluirse.
 
@@ -93,6 +93,7 @@ La propuesta del proyecto busca desarrollar una bomba de jeringa casera y de baj
 # 5. Referencias Bibliográficas
 [1] F. Rivas, “Microfluidos: ¿cuánto hay de nuevo?”, RCF, vol. 25, n.º 2B, p. 142-143, 2008.
 [2] Chang Kyu, B., & Kameel, A.-S. (2024). ELECTROPHORESIS. Wiley Analytical Science, 45(15-16), 1275. https://doi.org/10.1002/elps.201300205
-[3] “Low-cost feedback-controlled syringe pressure pumps for microfluidics applications”. PubMed Central (PMC). Accedido el 18 de septiembre de 2024. [En línea]. 
+[3] “Laboratory Programmable Syringe Pump - LSPone”. Advanced Microfluidics. Accedido el 17 de septiembre de 2024. [En línea]. Disponible: https://amf.ch/product/lspone-laboratory-syringe-pump/
+[4] “Low-cost feedback-controlled syringe pressure pumps for microfluidics applications”. PubMed Central (PMC). Accedido el 18 de septiembre de 2024. [En línea]. 
 Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5378403/#pone.0175089.ref012
-[4] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
+[5] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
