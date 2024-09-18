@@ -28,6 +28,7 @@ Objetivos especificos:
 - Probar la funcionalidad del prototipo y comprobar si los resultados obtenidos son correctos.
 
 ## Justificación del Prototipo
+Hay muchos tipos de bombas de microfluidos en el mercado, y todas tienen caracteristicas distintas, lo que hace que se lleguen a usar en diferentes áreas. Sin embargo, para nuestro proyecto se elijio la bomba de jeringa ya que esta es la que nos permite tener un mayor control del flujo de los liquidos a volumenes pequeños. Esto las diferencia del resto de bombas que tambien permiten manejar un flujo continuo, pero que no son tan precisas al momento de medir volumenes pequeños como los que se manejan cuando se va a experimentar.  
 
 ## Alineación con el Problema
 
