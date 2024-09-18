@@ -17,9 +17,9 @@ Cabe considerar que un alto costo tanto por unidad como de mantenimiento, implic
 Este problema es relevante en el campo de la biomédica principalmente por las distintas aplicaciones que pueden llegar a tener las bombas de jeringa en los laboratorios e investigaciónes, ejemplos claros son los lab-on-a-chip.
 
 ## Definición del problema
-El problema específico que se está tratando de resolver es el alto costo de adquisición y mantenimiento de las bombas de jeringa para microfluidos en entornos de laboratorio e investigación, particularmente en contextos educativos y en países en desarrollo como Perú. Este problema se ve exacerbado por la necesidad de importar estos dispositivos debido a la falta de fabricantes locales, el costo prohibitivo de los modelos comerciales existentes, y la importancia creciente de la microfluídica en la investigación y educación en ingeniería biomédica. 
+El problema específico que se está tratando de resolver es el alto costo de adquisición y mantenimiento de las bombas de jeringa para microfluidos en entornos de laboratorio e investigación, particularmente en contextos educativos y en países en desarrollo como Perú. Este problema se ve exacerbado por la necesidad de importar estos dispositivos debido a la falta de fabricantes locales, el costo prohibitivo de los modelos comerciales existentes, y la importancia creciente de la microfluídica en la investigación y educación en ingeniería biomédica[1]. 
 
-Un ejemplo concreto de esta situación en Perú es la adquisición por parte de la UTEC (Universidad de Ingeniería y Tecnología) de la Bomba para microfluidos dual programable Ossila L2003S1, con un precio que ronda los 3600 euros por unidad, lo que ilustra el alto costo que deben afrontar las instituciones educativas para acceder a esta tecnología esencial.
+Un ejemplo concreto de esta situación en Perú es la adquisición por parte de la UTEC (Universidad de Ingeniería y Tecnología) de la Bomba para microfluidos dual programable Ossila L2003S1, con un precio que ronda los 3600 euros por unidad, lo que ilustra el alto costo que deben afrontar las instituciones educativas para acceder a esta tecnología esencial[2].
 
 # 2. Propuesta de Solución 🤓
 
