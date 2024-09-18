@@ -108,7 +108,7 @@ Advanced Microfluidics es una fundación Sueca fundada en 2014, dedicada a la fa
 
 ## 4. Definición de la problemática
 
-Se determino que hay un alto costo por unidad y de mantenimiento de las bombas de jeringa de laboratorio para microfluidos, en un contexto educativo, se busca poder realizar los experimentos deseados a un precio accequible, tanto para las universidades o instituciones educativas como para personas e investigadores independientes. Además, considerar que Perú no tiene empresas que fabriquen estas bombas y la única manera de conseguir equipos de calidad confiables es importando del extranjero.
+Se determino que hay un alto costo por unidad y de mantenimiento de las bombas de jeringa de laboratorio para microfluidos, en un contexto educativo, donde se busca poder realizar experimentos practicos que se dan en tiempos cortos, resulta en un dispositivo poco accesible y no rentalbe, tanto para las universidades o instituciones educativas como para personas e investigadores independientes. Además, considerar que Perú no tiene empresas que fabriquen estas bombas y la única manera de conseguir equipos de calidad confiables es importando del extranjero.
 
 ## 5. Contexto científico
 
