@@ -55,11 +55,12 @@ Hay muchos tipos de bombas de microfluidos en el mercado, y todas tienen caracte
 Esto las diferencia del resto de bombas que tambien permiten manejar un flujo continuo, pero que no son tan precisas al momento de medir volumenes pequeños como los que se manejan cuando se va a experimentar.  
 
 ## Alineación con el Problema
-La problemática establecio que los costos por equipo y por mantenimiento del equipo eran muy altos, lo cual en consecuencia para el contexto peruano resulta no rentable, debido a que sus fines de uso en laboratorio es para la experimentos y procesos cortos.
+La problemática establecio que los costos por equipo y por mantenimiento del equipo eran muy altos, lo cual en consecuencia para el contexto peruano resulta poco conveniente y no rentable, debido a que sus fines de uso en laboratorio es para experimentos y procesos cortos.
 
-El prototipo presentado busca economizar y reducir los costos de fabricación de las bombas de jeringa enfocadas en el uso de laboratorio, para asi resultar mas accequibles no solo en el ámbito de laboratorio universitario, si no también masificarse a todo tipo de instituciones e investigadores independientes.
+El prototipo presentado busca economizar y reducir los costos de fabricación de las bombas de jeringa enfocadas en el uso de laboratorio, realizando cambios que no compromentan el funcionamiento óptimo de la bomba de jeringa, para así resultar mas accequibles no solo en el ámbito de laboratorio universitario, si no también masificarse a todo tipo de instituciones e investigadores independientes.
 
-El prototipo atiende a la problemática y resulve directamente el problema de altos costos.
+Por ende, el prototipo atiende a la problemática y resulve directamente el problema de altos costos.
+
 # 4. Resumen 🤪
 
 #5. Referencias Bibliográficas
