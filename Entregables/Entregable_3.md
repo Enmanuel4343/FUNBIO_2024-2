@@ -80,6 +80,7 @@ El prototipo presentado busca economizar y reducir los costos de fabricación de
 Por ende, el prototipo atiende a la problemática y resulve directamente el problema de altos costos.
 
 # 4. Resumen 🤪
+La propuesta del proyecto busca desarrollar una bomba de jeringa casera y de bajo costo utilizando tecnologías accesibles como microcontroladores (Arduino), impresión 3D y motores de mercado. Este prototipo incluirá guías lineales para mejorar la precisión, con el objetivo de reducir los costos sin sacrificar funcionalidad. Se enfoca en aplicaciones experimentales rápidas en microfluidos, especialmente en el campo de la biomedicina.
 
 # 5. Referencias Bibliográficas
 [1] F. Rivas, “Microfluidos: ¿cuánto hay de nuevo?”, RCF, vol. 25, n.º 2B, p. 142-143, 2008.
