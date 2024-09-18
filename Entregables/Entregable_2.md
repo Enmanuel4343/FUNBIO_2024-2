@@ -24,6 +24,8 @@ El dispositivo cuenta con una interfaz de control intuitiva con pantalla LCD, qu
 
 
 <img src="https://github.com/user-attachments/assets/9e5af69d-213a-4c08-ba1c-6010c44dda5e" width="350" height="">
+
+
 #PATENTES
 ## 1. WO2005016411 - SYRINGE PUMP
 Este es un dispositivo diseñado específicamente para la adición controlada de reactivos en reacciones químicas, mediante una bomba de jeringa compacta, portátil e inalámbrica. Ideal para laboratorios, su tamaño reducido facilita el manejo práctico en diversas aplicaciones de investigación.
@@ -31,6 +33,8 @@ Este es un dispositivo diseñado específicamente para la adición controlada de
 La bomba de jeringa utiliza un mecanismo impulsor que desplaza el émbolo de la jeringa a lo largo de su cilindro, garantizando una dosificación precisa de los reactivos. Lo innovador de este dispositivo es su capacidad para detectar en tiempo real las propiedades físicas de la mezcla de reacción, como el pH o la temperatura. Estos datos son procesados por un circuito de control lógico programable que ajusta automáticamente la velocidad de administración del reactivo, según los cambios observados en la mezcla.
 
 Con estas características, la bomba ofrece un control automatizado altamente preciso sobre las reacciones químicas, lo que permite optimizar el desarrollo de la reacción y reducir el margen de error humano.
+
+
 <img src="https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/noche.png" width="350" height="">
 
 #Requerimientos funcionales.
