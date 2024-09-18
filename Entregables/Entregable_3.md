@@ -35,7 +35,20 @@ Un ejemplo concreto de esta situación en Perú es la adquisición por parte de 
  - Mayor durabilidad: debido a sus materiales de fabricación
 
 ## Viabilidad Técnica
+Por viabilidad técnica, se optará por usar guías lineales junto con un husillo y su tuerca correspondiente. Un riel paralelo a la guía lineal se conectará al husillo, que a su vez estará unido a un motor paso a paso. Este motor será el encargado de dar las órdenes de rotación para el desplazamiento del husillo mediante un acoplador flexible. El pusher block se ubicará en la parte de empuje de la jeringa, y el soporte para la jeringa se puede fabricar mediante impresión 3D o corte láser de un material robusto. Un Arduino se utilizará para controlar el motor paso a paso con su código correspondiente.
 
+### Tabla de Componentes
+
+| **Producto**            | **Precio**    | **Especificaciones**                                         | **Foto** |
+|-------------------------|---------------|---------------------------------------------------------------|----------|
+| Motor paso a paso       | 20 $ aprox    | El motor se usará para convertir el movimiento circular en lineal. |          |
+| Husillo                 | 15 $ aprox    | El husillo debe tener al menos el tamaño de la jeringa.     |          |
+| Acoplador flexible       | 10 $ aprox    | Conectará el husillo al eje del motor paso a paso.           |          |
+| Pusher block            | No especificado| Encargado de empujar el émbolo de la jeringa.                |          |
+| Soporte                 | No especificado| Se utilizarán recursos para impresión 3D.                    |          |
+| Arduino                 | 40 $          | Controlará el motor paso a paso mediante código.             |          |
+| Fuente de alimentación  | 10 $          | Necesaria para proporcionar un voltaje de 12V al motor.      |          |
+| Controlador del motor   | 5 $           | Se usará un DRV8825 o A4988 para configurar el micro-paso, importante en microfluidos. |          |
 # 3. Coherencia 🤫
 
 ## Contexto del Proyecto
