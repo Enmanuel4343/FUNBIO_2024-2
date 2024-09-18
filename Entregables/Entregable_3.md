@@ -76,7 +76,7 @@ Por ende, el prototipo atiende a la problemática y resulve directamente el prob
 
 # 4. Resumen 🤪
 
-#5. Referencias Bibliográficas
+# 5. Referencias Bibliográficas
 [1] “Low-cost feedback-controlled syringe pressure pumps for microfluidics applications”. PubMed Central (PMC). Accedido el 18 de septiembre de 2024. [En línea]. 
 Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5378403/#pone.0175089.ref012
 [2] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
