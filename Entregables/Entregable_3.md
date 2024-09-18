@@ -2,7 +2,7 @@
 
 ## Contexto 
 
-La microfluidica se encarga de aprovechar las propiedades fisicas que proporcionan el uso y control de fluidos en escalas inferiores a la milimétrica. 
+La microfluidica se encarga de aprovechar las propiedades fisicas que proporcionan el uso y control de fluidos en escalas inferiores a la milimétrica [1].
 
 Partiendo de la base de que las fuerzas viscosas son las dominantes en escalas tan pequeñas, actualmente la microfluidica se utiliza para bastantes ambitos de la ciencia, con aplicaciones tanto para la Química, la Física o la Biologia, pero una de las mas importantes y que se enfoca en la pura experimentación de los fenómenos ligados a este mundo, es su aplicación para los laboratorios en un ámbito educativo.
 
@@ -81,6 +81,7 @@ Por ende, el prototipo atiende a la problemática y resulve directamente el prob
 # 4. Resumen 🤪
 
 # 5. Referencias Bibliográficas
-[1] “Low-cost feedback-controlled syringe pressure pumps for microfluidics applications”. PubMed Central (PMC). Accedido el 18 de septiembre de 2024. [En línea]. 
+[1] F. Rivas, “Microfluidos: ¿cuánto hay de nuevo?”, RCF, vol. 25, n.º 2B, p. 142-143, 2008.
+[2] “Low-cost feedback-controlled syringe pressure pumps for microfluidics applications”. PubMed Central (PMC). Accedido el 18 de septiembre de 2024. [En línea]. 
 Disponible: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5378403/#pone.0175089.ref012
-[2] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
+[3] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
