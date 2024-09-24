@@ -9,11 +9,14 @@
   
 ## 1.22 Descripción de Salidas:
 
-- Movimiento: 
-- Señales: Tiempo de infusion
+- Movimiento: Se efectua el desplazamiento del pusher block, lo cual realiza empuja el embolo de la jeringa, permitiendo la infusión
+- Señales: 
 
 ## 1.3 Descripción de Funciones:
 
+- Regualación:
+- Procesamiento:
+- Actuación: 
 
 # 2. Matriz Morfológica:
 
