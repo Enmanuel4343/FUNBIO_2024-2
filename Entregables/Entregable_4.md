@@ -14,9 +14,9 @@
 
 ## 1.3 Descripción de Funciones:
 
-- Regualación:
-- Procesamiento:
-- Actuación: 
+- Regulación: Se regula la corriente eléctrica para poder distribuirla a los componentes de la bomba de jeringa
+- Procesamiento: Se procesan los datos ingresados en la entrada para poder traducirlos en acciones
+- Actuación: El motor de micro pasos es a quien se le dan los datos procesados para que pueda accionar
 
 # 2. Matriz Morfológica:
 
