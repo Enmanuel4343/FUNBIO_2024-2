@@ -4,10 +4,17 @@
 
 ## 1.1 Descripción de Entradas:
 
-- Energía:
-- Señales:
+- Energía: La bomba de jeringa necesita de corriente eléctrica para su funcionamiento
+- Señales: Ingreso de datos como el volumen y el flujo que se desea infusionar 
+  
+## 1.22 Descripción de Salidas:
 
-## 1.2 Descripción de Funciones:
+- Movimiento: 
+- Señales: Tiempo de infusion
+
+## 1.3 Descripción de Funciones:
+
+
 # 2. Matriz Morfológica:
 
 # 3. Tabla de valoración:
