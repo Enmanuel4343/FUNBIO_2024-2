@@ -4,8 +4,8 @@
 
 ## 1.1 Descripción de Entradas:
 
-### - Energía:
-### - Señales:
+### -Energía:
+### -Señales:
 
 ## 1.2 Descripción de Funciones:
 # 2. Matriz Morfológica:
