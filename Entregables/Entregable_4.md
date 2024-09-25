@@ -26,5 +26,7 @@
 ![)](https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/crite5.png)
 # 4. Conclusión del Cs elegido:
 
+Analizando la matriz morfológica y la tabla de valoraciones, se decidio grupalmente que el conjunto solución mas aropiado, efectivo y viable es el número 1.
+
 # 5. Bocetos:
 ![7afcf988-ad6e-42f8-a646-7861dfff0e4f](https://github.com/user-attachments/assets/034aac3c-f627-4173-9431-f72bc8efa4c5)
