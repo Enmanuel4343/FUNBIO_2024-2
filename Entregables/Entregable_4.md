@@ -23,7 +23,7 @@
 
 
 # 3. Tabla de valoración:
-
+![)](https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/crite5.png)
 # 4. Conclusión del Cs elegido:
 
 # 5. Bocetos:
