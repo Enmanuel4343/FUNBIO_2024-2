@@ -55,7 +55,7 @@ La patente presenta una bomba de jeringa integrada para sistemas microfluídicos
 # Requerimientos no funcionales
 
 
-![Agregar un subtítulo](https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/noche4.jpg)
+![Agregar un subtítulo](https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo3/¿CUÁLES%20SON%20LAS%20PROPIEDADES%20DEL%20DISEÑO.png)
 ### Referencias:
 [1] N. author found, “Bomba de jeringa ISPLab01 con infusión/extracción y panel táctil.” [Online]. Available: https://drifton.es/tienda-online/24-bombas-de-jeringa/2399-bomba-de-jeringa-isplab01-con-pantalla-taacutectil/#tabs-pane1
 
