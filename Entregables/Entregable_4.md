@@ -29,4 +29,6 @@
 Analizando la matriz morfológica y la tabla de valoraciones, se decidio grupalmente que el conjunto solución mas aropiado, efectivo y viable es el número 1.
 
 # 5. Bocetos:
+![fa502a49-683c-48c8-ade3-5a1a45511b30](https://github.com/user-attachments/assets/c7d6f275-ad33-4eae-9047-54d3f2945a83)
+
 ![7afcf988-ad6e-42f8-a646-7861dfff0e4f](https://github.com/user-attachments/assets/034aac3c-f627-4173-9431-f72bc8efa4c5)
