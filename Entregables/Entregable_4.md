@@ -19,7 +19,7 @@
 - Actuación: El motor de micro pasos es a quien se le dan los datos procesados para que pueda accionar
 
 # 2. Matriz Morfológica:
-![Fuente de alimentación (1)](https://github.com/user-attachments/assets/412524d5-8c45-4fb5-be03-68e27efe80b2)
+![Fuente de alimentación (2)](https://github.com/user-attachments/assets/7c62dc00-a714-4d69-a461-f6cec976c837)
 
 
 # 3. Tabla de valoración:
