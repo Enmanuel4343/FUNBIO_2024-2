@@ -10,8 +10,8 @@
 ## 1.22 Descripción de Salidas:
 
 - Movimiento: Se efectua el desplazamiento del pusher block, lo cual realiza empuja el embolo de la jeringa, permitiendo la infusión
-- Señales: 
-
+- Señales: Una vez terminado el proceso de infusión del fluido, se emitira en la pantalla LCD la confirmación del proceso culminado y nuevamente el menu principal
+  
 ## 1.3 Descripción de Funciones:
 
 - Regulación: Se regula la corriente eléctrica para poder distribuirla a los componentes de la bomba de jeringa
