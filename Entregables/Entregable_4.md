@@ -27,4 +27,4 @@
 # 4. Conclusión del Cs elegido:
 
 # 5. Bocetos:
-
+![)](C:\Users\ANTONI\Pictures\7afcf988-ad6e-42f8-a646-7861dfff0e4f.jpg)
