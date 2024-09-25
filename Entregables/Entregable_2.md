@@ -48,7 +48,7 @@ La patente presenta una bomba de jeringa integrada para sistemas microfluídicos
 # Requerimientos funcionales
 
 
-![Agregar un subtítulo](https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo3/¿CUÁLES%20SON%20LAS%20PROPIEDADES%20DEL%20DISEÑO.png)
+![Agregar un subtítulo](https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/33333.png)
 
 
 
