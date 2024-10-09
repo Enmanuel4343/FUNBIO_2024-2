@@ -11,7 +11,7 @@
 
 ![Canva 2](https://github.com/user-attachments/assets/914f3c87-af51-4e31-92ed-2349ee984268)
 
-![canva 3 corregido](https://github.com/user-attachments/assets/3216a430-1233-4540-a7d1-cf92997ea561)
+![canva 3 corregido 2](https://github.com/user-attachments/assets/03d54618-d4ea-40a3-b2be-c1c576910be7)
 
 ### Modelos de Soporte
 
