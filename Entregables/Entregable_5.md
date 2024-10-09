@@ -22,4 +22,6 @@
 ![imagen_2024-10-08_234546550](https://github.com/user-attachments/assets/429faf94-9a14-40af-a722-96e0933e1350)
 
 
+### 2.3 Ensamblaje
 
+![CANVA 5](https://github.com/user-attachments/assets/b603590f-ab12-41f2-a71b-35c915b200c0)
