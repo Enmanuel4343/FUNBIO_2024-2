@@ -17,5 +17,5 @@
 
 ### 2.2 Modelos de Soporte
 
-
+![CANVA 4](https://github.com/user-attachments/assets/f1782d6a-5078-475e-baa0-c570ae28f67a)
 
