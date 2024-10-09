@@ -1,11 +1,11 @@
 # Diseño Esquemático y Simulación Electrónica. Modelado 3D de los componentes por separado
 
-## Diagrama o esquema electrónico
+## 1. Diagrama o esquema electrónico
 
 ![](https://github.com/JogaBardales/Proyecto1FUNBIO/blob/main/Archivo3/FUNA2345.png)
 
-## Modelado 3D
-### Componentes
+## 2. Modelado 3D
+### 2.1 Componentes
 
 ![Canva 1](https://github.com/user-attachments/assets/69304191-3e77-4ae2-b64e-3bec37748f88)
 
@@ -13,7 +13,7 @@
 
 ![canva 3 corregido 2](https://github.com/user-attachments/assets/03d54618-d4ea-40a3-b2be-c1c576910be7)
 
-### Modelos de Soporte
+### 2.2 Modelos de Soporte
 
 
 
