@@ -3,3 +3,6 @@
 ## Diagrama o esquema electrónico
 
 ![](https://github.com/JogaBardales/Proyecto1FUNBIO/blob/main/Archivo3/FUNA2345.png)
+
+## Modelado 3D
+### Componentes
