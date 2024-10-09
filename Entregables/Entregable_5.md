@@ -19,6 +19,7 @@
 
 ![CANVA 4](https://github.com/user-attachments/assets/f1782d6a-5078-475e-baa0-c570ae28f67a)
 
-![imagen_2024-10-08_234429823](https://github.com/user-attachments/assets/f4208559-62fb-45be-a822-099970dbfba1)
+![imagen_2024-10-08_234546550](https://github.com/user-attachments/assets/429faf94-9a14-40af-a722-96e0933e1350)
+
 
 
