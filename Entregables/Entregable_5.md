@@ -13,6 +13,8 @@
 
 ![canva 3 corregido 2](https://github.com/user-attachments/assets/03d54618-d4ea-40a3-b2be-c1c576910be7)
 
+![imagen_2024-10-08_234206286](https://github.com/user-attachments/assets/57083c5c-0427-4704-ac88-e96ed86e63d8)
+
 ### 2.2 Modelos de Soporte
 
 
