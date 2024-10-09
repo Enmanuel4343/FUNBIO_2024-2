@@ -19,8 +19,7 @@
 - Actuación: El motor de micro pasos es a quien se le dan los datos procesados para que pueda accionar
 
 # 2. Matriz Morfológica:
-![Fuente de alimentación (2)](https://github.com/user-attachments/assets/7c62dc00-a714-4d69-a461-f6cec976c837)
-
+![Fuente de alimentación (3)](https://github.com/user-attachments/assets/304cce66-3d54-4e06-a830-2a697c284ec7)
 
 # 3. Tabla de valoración:
 ![)](https://github.com/JogaBardales/Proyecto-FUNBIO/blob/main/Archivo2/crite5.png)
