@@ -90,13 +90,15 @@ La UTEC, La Universidad de Ingenieria y Tecnologia, tiene un laboratorio de Micr
 
 Ademas, en Peru hay una gran cantidad de empresas dedicadas a la fabricacion de bombas para el control de fluidos, pero no se logro encontrar empresas que fabricaran bombas de jeringa para microfluidos, en cambio para el caso de las bombas peristalticas, hay empresas como Omega Peru S.A que las fabrican. 
 
+En 2023, un grupo de estudiantes de Fundamentos de Biodiseno fabricaron un termociclador portatil de campo enfocado en la educacion, el cual consistia en un lab on a chip para el cual se requeria la entrada de dos volumenes de fluido a flujo contante y asi poder realizar la reaccion aplicando los cambios de temperatura correspondientes (funcion del termociclador en si), una de las limitaciones principales para el correcto desempeno de su proyecto fue la el ingreso del flujo de manera manual, evidenciando la necesidad de algun tipo de dispositivo que permitiera el control del volumen y flujo por ciclos de tiempo de manera precisa [9]
+
 En suma se puede evidenciar mediante un rapido chequeo del contexto peruano, que si bien en el ambito educativo y de laboratorios son requeridas (y se proyecta que mucho mas en un futuro), la unica opcion para poder conseguir estos productos es mediante la importacion, debido a que en Peru no hay empresas dedicadas a la fabricacion de las mismas.
 
 ### Contexto Mundial:
 
 En el ámbito mundial, la fabricación de bombas de jeringa para microfluidos y su necesidad para un contexto educativo y de laboratorio presenta un mayor alcance y hay una gran cantidad de empresas dedicadas a su fabricación.
 
-En 2012 se inauguro el laboratorio de microfluidica en la Universidad de Chile, con el fin de poder estudiar los fluidos en escalas muy pequeñas, al interior de redes de microcanales que llegan a tener el grosor de un cabello humano, explica la profesora del departamento de Física de la Facultad de Ciencias Físicas y Matemáticas [9].
+En 2012 se inauguro el laboratorio de microfluidica en la Universidad de Chile, con el fin de poder estudiar los fluidos en escalas muy pequeñas, al interior de redes de microcanales que llegan a tener el grosor de un cabello humano, explica la profesora del departamento de Física de la Facultad de Ciencias Físicas y Matemáticas .
 
 Advanced Microfluidics es una fundación Sueca fundada en 2014, dedicada a la fabricación de sistemas y componentes microfluidicos industriales y para laboratorio. Dentro de sus productos presenta una bomba de jeringa programable para laboratorio llamado LSPone, un sistema de dosificación de alta precisión diseñado como un dispositivo de sobremesa para aplicaciones de investigación académica de microfluidos automatizadas [10]. Si bien es un equipo calificado y muy bien implementado, presenta un costo por unidad que ronda los 4700 euros.
 
@@ -110,17 +112,17 @@ Se determino que hay un alto costo por unidad y de mantenimiento de las bombas d
 
 ## 5. Contexto científico
 
-La microfluidica es una tecnologia que lleva un buen tiempo desarrollandose e implementandose en las diferentes partes del mundo, en la actualidad vemos su aplicacion en los distintos tipos de bombas que salen a los mercados. Esta tecnologia se fue desarrollando decada tras decada, en donde se fueron acoplando diferentes áreas y disciplinas. Asimismo, se fueron mejorando diferentes tecnicas como la cromotografia de gases y la electroforesis capilar, en donde se reducian cada vez más los volumenes de las muestras a utilizar y ya para los años de 1990 se empezaron a crear sistemas como el "Lab-on-a-chip". Esto fue un gran avance en la biotecnologia, siendo principalmente usada en la biologia celular y analisis clinicos. Claramente, al ser una tecnologia tan versatil en su uso, se fueron creando más tecnologias pero que esta vez se puedan aplicar en el desarrollo de dispositivos que puden llegar a ser usados como modelos de tejidos con el fin de probarlos en la invetigacion y descubrimiento de nuevos farmacos("organ-on-a-chip")[12]. En la actualidad ya se han fabricado una cantidad muy diversa de bombas de microfluidos en el mercado; estas bombas son usadas en diferentes contextos, siendo fundamentales en áreas como la investigacion y sus variados usos en el ambito farmaceutico (ya sea por su aporte en la sintesis, la experimentacion y simulaciones que se pueden hacer para algunos farmacos).
+La microfluidica es una tecnologia que lleva un buen tiempo desarrollandose e implementandose en las diferentes partes del mundo, en la actualidad vemos su aplicacion en los distintos tipos de bombas que salen a los mercados. Esta tecnologia se fue desarrollando decada tras decada, en donde se fueron acoplando diferentes áreas y disciplinas. Asimismo, se fueron mejorando diferentes tecnicas como la cromotografia de gases y la electroforesis capilar, en donde se reducian cada vez más los volumenes de las muestras a utilizar y ya para los años de 1990 se empezaron a crear sistemas como el "Lab-on-a-chip". Esto fue un gran avance en la biotecnologia, siendo principalmente usada en la biologia celular y analisis clinicos. Claramente, al ser una tecnologia tan versatil en su uso, se fueron creando más tecnologias pero que esta vez se puedan aplicar en el desarrollo de dispositivos que puden llegar a ser usados como modelos de tejidos con el fin de probarlos en la invetigacion y descubrimiento de nuevos farmacos("organ-on-a-chip")[11]. En la actualidad ya se han fabricado una cantidad muy diversa de bombas de microfluidos en el mercado; estas bombas son usadas en diferentes contextos, siendo fundamentales en áreas como la investigacion y sus variados usos en el ambito farmaceutico (ya sea por su aporte en la sintesis, la experimentacion y simulaciones que se pueden hacer para algunos farmacos).
 
 
 ### 5.1 Low-cost feedback-controlled syringe pressure pumps for microfluidics application
-Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jeringa, sensor de presión y amplificador, microcontrolador y controlador del motor. El objetivo es obtener una bomba de bajo costo, con un control sensible y estable para diversos experimentos en chips microfluídicos [10].
+Bomba de presión de jeringa compuesta por cuatro componente: la bomba de jeringa, sensor de presión y amplificador, microcontrolador y controlador del motor. El objetivo es obtener una bomba de bajo costo, con un control sensible y estable para diversos experimentos en chips microfluídicos [12].
 
 ![imagen_2024-09-17_154823714](https://github.com/user-attachments/assets/a250558a-fe00-449a-8ccd-fc18d300813b)
 
 
 ### 5.2 An Intelligent Infusion Flow Controlled Syringe Infusion Pump
-Sistema que ayuda en la mejora en la lectura directa de la velocidad de infusión, como otros parámetro como detección de burbujas de aire [11].
+Sistema que ayuda en la mejora en la lectura directa de la velocidad de infusión, como otros parámetro como detección de burbujas de aire [13].
 
 
 ## 6. Referencia Bibliográficas
@@ -140,10 +142,12 @@ Sistema que ayuda en la mejora en la lectura directa de la velocidad de infusió
 
 [8] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
 
-[9] “Laboratory Programmable Syringe Pump - LSPone”. Advanced Microfluidics. Accedido el 17 de septiembre de 2024. [En línea]. Disponible: https://amf.ch/product/lspone-laboratory-syringe-pump/
+[9] 
 
-[10] J. R. Lake, K. C. Heyde, and W. C. Ruder, "Low-cost feedback-controlled syringe pressure pumps for microfluidics applications," PLOS ONE 12(4), April 2017. https://doi.org/10.1371/journal.pone.0175089
+[10] “Laboratory Programmable Syringe Pump - LSPone”. Advanced Microfluidics. Accedido el 17 de septiembre de 2024. [En línea]. Disponible: https://amf.ch/product/lspone-laboratory-syringe-pump/
 
-[11] N. Merhi et al., "An Intelligent Infusion Flow Controlled Syringe Infusion Pump," 2019 31st International Conference on Microelectronics (ICM), Cairo, Egypt, 2019, pp. 48-52, doi: 10.1109/ICM48031.2019.9021516.
+[11] J. R. Lake, K. C. Heyde, and W. C. Ruder, "Low-cost feedback-controlled syringe pressure pumps for microfluidics applications," PLOS ONE 12(4), April 2017. https://doi.org/10.1371/journal.pone.0175089
 
-[12] Elveflow, "The history of microfluidics," Elveflow, 2023. [Online]. Available: https://www.elveflow.com/microfluidic-reviews/general-microfluidics/history-of-microfluidics/. [Accessed: Sep. 17, 2024].
+[12] N. Merhi et al., "An Intelligent Infusion Flow Controlled Syringe Infusion Pump," 2019 31st International Conference on Microelectronics (ICM), Cairo, Egypt, 2019, pp. 48-52, doi: 10.1109/ICM48031.2019.9021516.
+
+[13] Elveflow, "The history of microfluidics," Elveflow, 2023. [Online]. Available: https://www.elveflow.com/microfluidic-reviews/general-microfluidics/history-of-microfluidics/. [Accessed: Sep. 17, 2024].
