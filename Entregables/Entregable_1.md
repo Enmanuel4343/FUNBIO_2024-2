@@ -142,7 +142,7 @@ Sistema que ayuda en la mejora en la lectura directa de la velocidad de infusió
 
 [8] Ossila Syringe Pump User Manual. (s.f.). Ossila. https://www.ossila.com/pages/syringe-pump-user-manual
 
-[9] 
+[9] RUIZ, G. A., CABALLERO, N. R., MEDINA, N. J., ALCANTARA, E. G., & RIVERA, V. (s.f.). FunBioGrupo9/README.md at main · Gustavo-Ruiz-Ortiz/FunBioGrupo9. GitHub. https://github.com/Gustavo-Ruiz-Ortiz/FunBioGrupo9/blob/main/README.md
 
 [10] “Laboratory Programmable Syringe Pump - LSPone”. Advanced Microfluidics. Accedido el 17 de septiembre de 2024. [En línea]. Disponible: https://amf.ch/product/lspone-laboratory-syringe-pump/
 
