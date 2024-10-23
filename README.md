@@ -19,3 +19,6 @@ En esta pagina podras conocer a los integrantes de este equipo, también conocer
 | <img src="https://github.com/user-attachments/assets/a72e9ff4-b088-4128-8486-cf9837a70d45" width="200" height="240"> |<img src="https://github.com/user-attachments/assets/aaefd264-a8f6-4327-9f68-ec9dada9d525" width="200" height="240">|
 
 La temática tratada es sobre *Open Hardware para la salud y los laboratorios*.
+## HITO 1
+# HITO 1
+https://www.canva.com/design/DAGUOoJ8uOA/oJno1h4mS7QjiU7FCJEBOA/edit
