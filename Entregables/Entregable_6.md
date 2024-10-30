@@ -33,4 +33,4 @@ https://github.com/user-attachments/files/17564733/software_funbio.pdf
 
 ![image](https://github.com/user-attachments/assets/52f8c2fa-c9bb-4108-b070-14e7e6ec667d)
 
-# PLANOS:
+
