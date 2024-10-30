@@ -2,7 +2,7 @@
 ## Etregable 6
 # SOFTWARE:
 
--Se han añadido bibliotecas adicionales de Adafruit para facilitar la programación del OLED.
+-Se han añadido bibliotecas adicionales de Adafruit para facilitar la programación del OLED.<br>
 -Se guardan los valores de tiempo, caudal y proceso, que serán útiles para el ajuste del motor.
 -Se verifica si el encoder ha sido girado o si se ha presionado el botón.
 -Se perimite al usuario aumentar o disminuir los parametro del caudal y tiempo.
