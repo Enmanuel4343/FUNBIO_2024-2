@@ -10,3 +10,12 @@
 https://github.com/user-attachments/files/17564733/software_funbio.pdf
 # DIAGRAMA DE FLUJO:
 ![Ejemplo de diagrama de flujo de servicio técnico](https://github.com/user-attachments/assets/6a1bb1f2-6726-46af-82db-4391c17fc5a5)
+
+# PLANOS:
+[Drawing 1.pdf](https://github.com/user-attachments/files/17565385/Drawing.1.pdf)
+
+
+[Drawing 2.pdf](https://github.com/user-attachments/files/17565386/Drawing.2.pdf)
+
+
+[Drawing 3.pdf](https://github.com/user-attachments/files/17565387/Drawing.3.pdf)
