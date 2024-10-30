@@ -1,5 +1,5 @@
 # FUNBIO_2024-2 
-## Etregable 6
+# ENTREGABLE 6
 # SOFTWARE:
 
 -Se han añadido bibliotecas adicionales de Adafruit para facilitar la programación del OLED.<br>
@@ -8,6 +8,7 @@
 -Se perimite al usuario aumentar o disminuir los parametro del caudal y tiempo.<br>
 -En la sección de proceso, se muestra un resumen de los parámetros configurados.<br>
 https://github.com/user-attachments/files/17564733/software_funbio.pdf
+
 # DIAGRAMA DE FLUJO:
 ![Ejemplo de diagrama de flujo de servicio técnico](https://github.com/user-attachments/assets/6a1bb1f2-6726-46af-82db-4391c17fc5a5)
 
@@ -31,3 +32,5 @@ https://github.com/user-attachments/files/17564733/software_funbio.pdf
 ## TAPA SUPERIOR :construction:
 
 ![image](https://github.com/user-attachments/assets/52f8c2fa-c9bb-4108-b070-14e7e6ec667d)
+
+# PLANOS:
