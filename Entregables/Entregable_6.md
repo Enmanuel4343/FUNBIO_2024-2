@@ -33,4 +33,6 @@ https://github.com/user-attachments/files/17564733/software_funbio.pdf
 
 ![image](https://github.com/user-attachments/assets/52f8c2fa-c9bb-4108-b070-14e7e6ec667d)
 
+# LINK DE ONESHAPE
 
+https://cad.onshape.com/documents/7f496ce4761718ffc417c882/w/36465baabd3efdfe7a24d189/e/8562c195d3f151b5a8f5ba9e
