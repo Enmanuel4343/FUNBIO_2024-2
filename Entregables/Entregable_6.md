@@ -36,3 +36,17 @@ https://github.com/user-attachments/files/17564733/software_funbio.pdf
 # LINK DE ONESHAPE
 
 https://cad.onshape.com/documents/7f496ce4761718ffc417c882/w/36465baabd3efdfe7a24d189/e/8562c195d3f151b5a8f5ba9e
+
+# PARÁMETROS DE IMPRESIÓN
+
+## SOPORTES DE JERINGA
+
+![](https://github.com/JogaBardales/Proyecto1FUNBIO/blob/main/Archivo2/imagen_2024-10-29_234916940.png)
+
+## CASE PRINCIPAL
+
+![](https://github.com/JogaBardales/Proyecto1FUNBIO/blob/main/Archivo2/imagen_2024-10-29_235313051.png)
+
+## SOPORTES DE JERINGA
+
+![](https://github.com/JogaBardales/Proyecto1FUNBIO/blob/main/Archivo2/imagen_2024-10-29_235739753.png)
