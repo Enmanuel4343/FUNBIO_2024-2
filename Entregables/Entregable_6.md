@@ -14,3 +14,11 @@ https://github.com/user-attachments/files/17564733/software_funbio.pdf
 # PLANOS:
 
 ![image](https://github.com/user-attachments/assets/960fec5c-051d-4f7c-a4ec-43022a05c159)
+
+![image](https://github.com/user-attachments/assets/00282f65-fdd5-46fd-8248-300e0cc0d28d)
+
+![image](https://github.com/user-attachments/assets/4d867987-f2ad-405b-9633-1eda2152a5b5)
+
+![image](https://github.com/user-attachments/assets/672f5030-d071-4762-87b5-bde9f8e9fc84)
+
+![image](https://github.com/user-attachments/assets/52f8c2fa-c9bb-4108-b070-14e7e6ec667d)
