@@ -23,7 +23,7 @@ Nueva interfaz con recopilacion de datos:
 | **Precisión de los Parámetros con la Velocidad del Motor** | La velocidad del flujo no permitía cumplir con las expectativas del lab-on-a-chip debido a la inestabilidad del motor. | Se realizarán diferentes pruebas para mejorar la precisión y ajustar la velocidad del motor de forma más precisa. |
 
 
-## Retos y limitaciones de la manufactura digital:
+## Retos y limitaciones de la manufactura digital 🏳️‍⚧️:
 
 ![WhatsApp Image 2024-11-05 at 10 54 26 PM](https://github.com/user-attachments/assets/ff1d3f99-8bc6-4dbc-8570-c50b3e7f905b)
 
