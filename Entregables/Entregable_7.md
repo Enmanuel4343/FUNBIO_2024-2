@@ -12,7 +12,7 @@ Nueva interfaz con recopilacion de datos:
 
 [Codigo_version 2.pdf](https://github.com/user-attachments/files/17641201/Codigo_version.2.pdf)
 
-## Rteos y limitaciones de los componentes por separado
+## Retos y limitaciones de los componentes por separado
 | **Reto**   | **Limitación**   | **Solución**    |
 |------------------------------|----------------------------------------------|-------------|
 | **Integración del Motor Reductor N20 con el Driver** | El motor N20 requiere un control preciso de velocidad, pero el driver inicial no permitía una regulación adecuada, ya que el que teníamos era para un motor paso a paso. | Se seleccionó un driver compatible que proporcionó un control más eficiente y preciso sobre el motor. |
