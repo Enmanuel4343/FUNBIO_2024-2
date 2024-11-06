@@ -25,8 +25,9 @@ Nueva interfaz con recopilacion de datos:
 
 ## Retos y limitaciones de la manufactura digital:
 
+![WhatsApp Image 2024-11-05 at 10 54 26 PM](https://github.com/user-attachments/assets/ff1d3f99-8bc6-4dbc-8570-c50b3e7f905b)
+
 ![WhatsApp Image 2024-11-05 at 10 54 44 PM](https://github.com/user-attachments/assets/292ad0cf-b0bc-4c69-9550-55698c973d1d)
 
-![WhatsApp Image 2024-11-05 at 10 54 26 PM](https://github.com/user-attachments/assets/ff1d3f99-8bc6-4dbc-8570-c50b3e7f905b)
 
 
