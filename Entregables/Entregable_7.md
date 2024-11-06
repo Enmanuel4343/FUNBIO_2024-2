@@ -13,13 +13,13 @@ Nueva interfaz con recopilacion de datos:
 [Codigo_version 2.pdf](https://github.com/user-attachments/files/17641201/Codigo_version.2.pdf)
 
 ## Retos y limitaciones de los componentes por separado
-| **Reto**   | **Limitación**   | **Solución**    |
-|------------------------------|----------------------------------------------|-------------|
-| **Integración del Motor Reductor N20 con el Driver** | El motor N20 requiere un control preciso de velocidad, pero el driver inicial no permitía una regulación adecuada, ya que el que teníamos era para un motor paso a paso. | Se seleccionó un driver compatible que proporcionó un control más eficiente y preciso sobre el motor. |
-| **Limitaciones del Tamaño de la Pantalla OLED**   | La pantalla OLED es pequeña y no permite mostrar toda la información de manera legible y detallada al mismo tiempo.    | Se rediseñó el menú para utilizar los espacios de forma eficiente, priorizando la claridad de las opciones y los valores ajustados. |
-| **Control de Flujo y Respuesta del Motor**       | El motor no reaccionaba de manera estable a los ajustes rápidos, lo que dificultaba mantener un flujo constante y preciso. | Se implementaron ajustes de sensibilidad en el encoder y se mejoró la respuesta del motor para un control más constante y suave. |
-| **Interacción Compleja del Usuario**             | La interfaz podría resultar confusa para el usuario debido a la cantidad de parámetros ajustables y el diseño inicial. | Se simplificó la interfaz y se agregó retroalimentación visual clara, permitiendo un seguimiento más fácil de los parámetros ajustados. |
-| **Precisión de los Parámetros con la Velocidad del Motor** | La velocidad del flujo no permitía cumplir con las expectativas del lab-on-a-chip debido a la inestabilidad del motor. | En el futuro se realizarán diferentes pruebas para mejorar la precisión y ajustar la velocidad del motor de forma más precisa. |
+| **Reto**   | **Limitación**   | **Solución Futura**    |
+|------------------------------|----------------------------------------------|------------------------|
+| **Integración del Motor Reductor N20 con el Driver** | El motor N20 requiere un control preciso de velocidad, pero el driver inicial no permitía una regulación adecuada, ya que el que teníamos era para un motor paso a paso. | En el futuro se evaluarán otros drivers más adecuados para el control preciso de motores DC, mejorando así la respuesta y estabilidad del motor. |
+| **Limitaciones del Tamaño de la Pantalla OLED**   | La pantalla OLED es pequeña y no permite mostrar toda la información de manera legible y detallada al mismo tiempo.    | Se planea integrar una pantalla más grande o usar múltiples pantallas para mejorar la visualización de los parámetros y opciones. |
+| **Control de Flujo y Respuesta del Motor**       | El motor no reaccionaba de manera estable a los ajustes rápidos, lo que dificultaba mantener un flujo constante y preciso. | Se desarrollará un algoritmo de control de flujo más avanzado para asegurar una respuesta más estable y precisa del motor a ajustes rápidos. |
+| **Interacción Compleja del Usuario**             | La interfaz podría resultar confusa para el usuario debido a la cantidad de parámetros ajustables y el diseño inicial. | Se realizará una revisión y simplificación del diseño de la interfaz, implementando un sistema de navegación más intuitivo para el usuario. |
+| **Precisión de los Parámetros con la Velocidad del Motor** | La velocidad del flujo no permitía cumplir con las expectativas del lab-on-a-chip debido a la inestabilidad del motor. | Se llevarán a cabo pruebas adicionales para ajustar y calibrar la velocidad del motor de forma más precisa, garantizando que cumpla con las especificaciones necesarias para el lab-on-a-chip. |
 
 
 
