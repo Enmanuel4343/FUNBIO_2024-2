@@ -10,7 +10,8 @@ https://github.com/user-attachments/assets/78bd6884-6aa9-43f2-80e4-c29a69e535d6
 
 Nueva interfaz con recopilacion de datos:
 
-[Codigo_version 2.pdf](https://github.com/user-attachments/files/17641201/Codigo_version.2.pdf)
+[Codigo_V2.pdf](https://github.com/user-attachments/files/17641327/Codigo_V2.pdf)
+
 
 ## Retos y limitaciones de los componentes por separado:
 | **Reto**   | **Limitación**   | **Solución**    |
