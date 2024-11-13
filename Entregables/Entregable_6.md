@@ -31,7 +31,7 @@ https://github.com/user-attachments/files/17564733/software_funbio.pdf
 
 ## TAPA SUPERIOR :construction:
 
-![image](https://github.com/user-attachments/assets/5a63c939-0037-499c-b895-d3fa3ca3437e)
+![image](https://github.com/user-attachments/assets/fdfc4b32-03de-43c2-ae5f-9a85a8903751)
 
 # LINK DE ONESHAPE
 
