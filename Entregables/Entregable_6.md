@@ -19,7 +19,7 @@ https://github.com/user-attachments/files/17564733/software_funbio.pdf
 
 ## SOPORTE Y ASEGURADOR DE JERINGA 1 :art:
 
-![image](https://github.com/user-attachments/assets/00282f65-fdd5-46fd-8248-300e0cc0d28d)
+![image](https://github.com/user-attachments/assets/18e086bb-760e-477d-91ca-380eea6c4356)
 
 ## SOPORTE Y ASEGURADOR DE JERINGA 2 :wrench:
 
