@@ -23,7 +23,7 @@ https://github.com/user-attachments/files/17564733/software_funbio.pdf
 
 ## SOPORTE Y ASEGURADOR DE JERINGA 2 :wrench:
 
-![image](https://github.com/user-attachments/assets/4d867987-f2ad-405b-9633-1eda2152a5b5)
+![image](https://github.com/user-attachments/assets/d33cc53e-b139-49ba-b687-ca28179bed19)
 
 ## TAPA INTERMEDIA :test_tube:
  
