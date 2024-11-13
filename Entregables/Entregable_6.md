@@ -57,3 +57,7 @@ https://cad.onshape.com/documents/7f496ce4761718ffc417c882/w/36465baabd3efdfe7a2
 
 
 # Retos y limitaciones de la manufactura digital 🏳️‍⚧️:
+
+![imagen_2024-11-12_224631857](https://github.com/user-attachments/assets/9611c13d-483c-4279-856b-fe3a8cde05fb)
+
+![imagen_2024-11-12_225141996](https://github.com/user-attachments/assets/9c48d79f-95e7-4207-a85a-aeaed51a024a)
