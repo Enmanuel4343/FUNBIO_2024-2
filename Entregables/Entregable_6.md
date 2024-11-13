@@ -15,7 +15,7 @@ https://github.com/user-attachments/files/17564733/software_funbio.pdf
 # PLANOS:
 ## CASE PRINCIPAL :book: 
 
-![image](https://github.com/user-attachments/assets/960fec5c-051d-4f7c-a4ec-43022a05c159)
+![image](https://github.com/user-attachments/assets/afb1c0c5-4384-4a3e-b5ca-7295a134ddaf)
 
 ## SOPORTE Y ASEGURADOR DE JERINGA 1 :art:
 
