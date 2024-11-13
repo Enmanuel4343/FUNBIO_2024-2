@@ -50,3 +50,6 @@ https://cad.onshape.com/documents/7f496ce4761718ffc417c882/w/36465baabd3efdfe7a2
 ## SOPORTES DE JERINGA
 
 ![](https://github.com/JogaBardales/Proyecto1FUNBIO/blob/main/Archivo2/imagen_2024-10-29_235739753.png)
+
+
+## Retos y limitaciones de la manufactura digital 🏳️‍⚧️:
