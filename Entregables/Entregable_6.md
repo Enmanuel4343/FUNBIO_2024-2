@@ -10,7 +10,11 @@
 https://github.com/user-attachments/files/17564733/software_funbio.pdf
 
 # DIAGRAMA DE FLUJO:
+## Diagrama de Flujo del Código
 ![Ejemplo de diagrama de flujo de servicio técnico](https://github.com/user-attachments/assets/6a1bb1f2-6726-46af-82db-4391c17fc5a5)
+## Diagrama de flujo del dipositivo.
+![_Diagrama de flujo](https://github.com/user-attachments/assets/a2dd0bbe-5aee-452b-8a86-8efbf7489ef1)
+
 
 # PLANOS:
 ## CASE PRINCIPAL :book: 
