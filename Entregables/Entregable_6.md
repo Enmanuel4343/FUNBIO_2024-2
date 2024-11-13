@@ -27,7 +27,7 @@ https://github.com/user-attachments/files/17564733/software_funbio.pdf
 
 ## TAPA INTERMEDIA :test_tube:
  
-![image](https://github.com/user-attachments/assets/672f5030-d071-4762-87b5-bde9f8e9fc84)
+![image](https://github.com/user-attachments/assets/169efcb1-0f57-4844-bbe7-bcdd60308e63)
 
 ## TAPA SUPERIOR :construction:
 
