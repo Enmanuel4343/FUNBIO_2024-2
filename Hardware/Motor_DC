@@ -1,4 +1,4 @@
-## Codigo de conexion y verificaión del funcionamiento del Motor DC
+Codigo de conexion y verificaión del funcionamiento del Motor DC
 
 #define IN1 3
 #define IN2 4
