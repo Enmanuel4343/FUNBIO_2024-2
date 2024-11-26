@@ -1,1 +1,66 @@
+// Pines de conexión
+// MOTOR 1 DC
+#define IN1 3
+#define IN2 4
+
+
+
+void setup() {
+ pinMode(IN1, OUTPUT);
+ pinMode(IN2, OUTPUT);
+
+}
+
+void loop() {
+  
+ // motor 1 run 50% speed in FWD for 5 seconds
+  analogWrite(IN1,50);
+  digitalWrite(IN2, LOW);
+
+  delay(5000);
+}
+
+
+
+
+//Las conexiones y velocidad del motor stepper junto con un Driver A4988
+
+const int dirPin = 8;  // Pin conectado a DIR del A4988
+const int stepPin = 9; // Pin conectado a STEP del A4988
+
+// Pines de conexión
+
+
+// Configuración inicial
+void setup() {
+  pinMode(stepPin, OUTPUT);
+  pinMode(dirPin, OUTPUT);
+
+  // Dirección inicial del motor (hacia adelante)
+  digitalWrite(dirPin, HIGH);
+}
+
+void loop() {
+  int stepsPerRevolution = 3200; // Pasos para una vuelta completa (200 pasos * 16 micro-pasos)
+
+  // Girar hacia adelante
+  digitalWrite(dirPin, HIGH); // Dirección hacia adelante
+  for (int i = 0; i < stepsPerRevolution; i++) {
+    digitalWrite(stepPin, HIGH);  
+    delayMicroseconds(500); // Ajusta la velocidad aquí
+    digitalWrite(stepPin, LOW);
+    delayMicroseconds(500);
+  }
+  delay(1000); // Pausa de 1 segundo
+
+  // Girar hacia atrás
+  digitalWrite(dirPin, LOW); // Dirección hacia atrás
+  for (int i = 0; i < stepsPerRevolution; i++) {
+    digitalWrite(stepPin, HIGH);
+    delayMicroseconds(500); // Ajusta la velocidad aquí
+    digitalWrite(stepPin, LOW);
+    delayMicroseconds(500);
+  }
+  delay(1000); // Pausa de 1 segundo
+}
 
