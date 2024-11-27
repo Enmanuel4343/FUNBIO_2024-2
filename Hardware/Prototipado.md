@@ -22,5 +22,3 @@
 
 
 
-## Tercer protipado
-
