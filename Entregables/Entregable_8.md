@@ -66,8 +66,8 @@ Se realizaron pruebas para verificar que:
 - El émbolo de la jeringa se empuja de manera funcional, pero con menor precisión debido a la ausencia de un motor paso a paso.
 
 Videos de las pruebas:
-- [Prueba de velocidad del motor DC](https://github.com/user-attachments/assets/a46dafdb-d020-4827-9157-654ff3cd96fc)
-- [Prueba de empuje del émbolo](https://github.com/user-attachments/assets/a46dafdb-d020-4827-9157-654ff3cd96fc)
+ (https://github.com/user-attachments/assets/a46dafdb-d020-4827-9157-654ff3cd96fc)
+ (https://github.com/user-attachments/assets/a46dafdb-d020-4827-9157-654ff3cd96fc)
 
 ### Evaluación de desempeño:
 Aunque el sistema es funcional, la inestabilidad del motor DC afecta la precisión y el control necesario para aplicaciones microfluídicas. Esto será mejorado en fases futuras.
