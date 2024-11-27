@@ -10,7 +10,7 @@ En muchos laboratorios, especialmente en regiones con recursos escasos, no hay e
 
 ### Objetivos de la fase de integración:
 - Integrar todos los componentes del prototipo para su funcionamiento conjunto.
-- Verificar que la interfaz de usuario (rotary encoder y pantalla OLED) permita ajustar y visualizar parámetros de caudal y tiempo.
+- Verificar que la interfaz de usuario (rotary encoder y pantalla OLED) permita ajustar y visualizar parámetros de velocidad y tiempo.
 - Asegurar que el motor N20 y el mecanismo de guía lineal trabajen sincronizados para un movimiento preciso.
 - Realizar pruebas que evalúen la funcionalidad y desempeño del prototipo.
 
