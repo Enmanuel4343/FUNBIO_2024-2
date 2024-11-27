@@ -71,7 +71,7 @@ Videos de las pruebas:
  https://github.com/user-attachments/assets/a46dafdb-d020-4827-9157-654ff3cd96fc
 
  
- https://github.com/user-attachments/assets/a46dafdb-d020-4827-9157-654ff3cd96fc
+
 
 ### Evaluación de desempeño:
 Aunque el sistema es funcional, la inestabilidad del motor DC afecta la precisión y el control necesario para aplicaciones microfluídicas. Esto será mejorado en fases futuras.
