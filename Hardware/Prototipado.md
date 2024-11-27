@@ -22,5 +22,6 @@
 
 ## Segundo prototipado
 
+![image](https://github.com/user-attachments/assets/c9a79139-89ea-40bc-b6b2-561918945383)
 
 
