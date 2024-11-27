@@ -18,15 +18,15 @@ En muchos laboratorios, especialmente en regiones con recursos escasos, no hay e
 ## Componentes del Prototipo
 
 ### Lista de componentes principales:
-1. Arduino Uno: Controlador principal del sistema.
-2. Motor N20 con husillo: Responsable del movimiento preciso del émbolo de la jeringa.
-3. Controlador A4988: Regula el movimiento del motor.
-4. Pantalla OLED 128x64: Muestra el menú y los parámetros.
-5. Rotary Encoder: Ajusta valores de caudal y tiempo.
-6. Jeringa estándar: Contenedor del fluido.
-7. Guía lineal y pusher block: Aseguran la precisión del movimiento del émbolo.
-8. Fuente de alimentación: Proporciona energía al sistema.
-9. Switch de encendido/apagado: Activa o desactiva el dispositivo.
+-  Arduino Uno: Controlador principal del sistema.
+- Motor N20 con husillo: Responsable del movimiento preciso del émbolo de la jeringa.
+-  Controlador A4988: Regula el movimiento del motor.
+-  Pantalla OLED 128x64: Muestra el menú y los parámetros.
+-  Rotary Encoder: Ajusta valores de caudal y tiempo.
+-  Jeringa estándar: Contenedor del fluido.
+- Guía lineal y pusher block: Aseguran la precisión del movimiento del émbolo.
+- Fuente de alimentación: Proporciona energía al sistema.
+- Switch de encendido/apagado: Activa o desactiva el dispositivo.
 
 ### Interacción entre componentes:
 - El rotary encoder envía señales al Arduino Uno, que procesa los datos y ajusta los parámetros en la pantalla OLED.
