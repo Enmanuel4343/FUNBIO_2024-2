@@ -14,7 +14,6 @@ En muchos laboratorios, especialmente en regiones con recursos escasos, no hay e
 - Asegurar que el motor N20 y el mecanismo de guía lineal trabajen sincronizados para un movimiento preciso.
 - Realizar pruebas que evalúen la funcionalidad y desempeño del prototipo.
 
----
 
 ## Componentes del Prototipo
 
@@ -38,7 +37,6 @@ En muchos laboratorios, especialmente en regiones con recursos escasos, no hay e
 ### Diagrama de integración:
 ![Diagrama de integración](https://github.com/user-attachments/assets/8cab3f50-38dd-48ee-8f58-c05842654785)
 
----
 
 ## Proceso de Integración
 
