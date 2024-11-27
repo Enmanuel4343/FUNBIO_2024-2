@@ -17,11 +17,12 @@
 
 ### 2.2 Modelos de Soporte 👩‍🦲
 
-![CANVA 4](https://github.com/user-attachments/assets/f1782d6a-5078-475e-baa0-c570ae28f67a)
+![imagen_2024-11-26_231743350](https://github.com/user-attachments/assets/5da1555f-dc99-47a2-a54e-f34f90853678)
 
-![imagen_2024-10-08_234546550](https://github.com/user-attachments/assets/429faf94-9a14-40af-a722-96e0933e1350)
+![image](https://github.com/user-attachments/assets/4ea9293c-c656-411c-ab9c-5440f9b8f4ea)
 
+![image](https://github.com/user-attachments/assets/c4a8b2bc-4ae8-4d98-9292-ab05f53bca7f)
 
 ### 2.3 Ensamblaje
 
-![CANVA 5](https://github.com/user-attachments/assets/b603590f-ab12-41f2-a71b-35c915b200c0)
+![image](https://github.com/user-attachments/assets/636b74bd-7266-4afb-8e6c-0fb390c8c707)
