@@ -10,7 +10,7 @@ En muchos laboratorios, especialmente en regiones con recursos escasos, no hay e
 
 ### Objetivos de la fase de integración:
 - Integrar todos los componentes del prototipo para su funcionamiento conjunto.
-- Verificar que la interfaz de usuario (rotary encoder y pantalla OLED) permita ajustar y visualizar parámetros de velocidad y tiempo.
+- Verificar que la interfaz de usuario (rotary encoder y pantalla OLED) permita ajustar y visualizar parámetros de caudal y tiempo.
 - Asegurar que el motor N20 y el mecanismo de guía lineal trabajen sincronizados para un movimiento preciso.
 - Realizar pruebas que evalúen la funcionalidad y desempeño del prototipo.
 
@@ -55,9 +55,9 @@ Durante las pruebas, se ajustó el sistema para garantizar que el DRV8833 pudier
 
 ### Descripción de pruebas funcionales:
 Se realizaron pruebas para verificar que:
-1. El DRV8833 controlara la velocidad del motor DC de manera adecuada.
-2. La interfaz con el rotary encoder y la pantalla OLED mostrara los parámetros correctamente.
-3. El sistema mecánico pudiera empujar el émbolo de manera funcional.
+- El DRV8833 controlara la velocidad del motor DC de manera adecuada.
+-  La interfaz con el rotary encoder y la pantalla OLED mostrara los parámetros correctamente.
+-  El sistema mecánico pudiera empujar el émbolo de manera funcional.
 
 ### Resultados de pruebas:
 - Se logró controlar la velocidad del motor DC utilizando el driver DRV8833, aunque la inestabilidad del motor representa una limitación importante.
@@ -89,4 +89,3 @@ Se integraron los componentes básicos del prototipo, logrando un sistema funcio
 - Implementar el ajuste de parámetros desde el rotary encoder y la pantalla OLED.
 - Aplicar los valores ajustados al control del motor DC.
 - Sustituir el motor DC por el motor paso a paso una vez que esté disponible para aumentar la precisión y la confiabilidad del sistema.
-
