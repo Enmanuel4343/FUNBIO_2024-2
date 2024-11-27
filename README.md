@@ -63,4 +63,5 @@ El prototipo ha avanzado significativamente. Se ha integrado exitosamente una **
 - Continuar con las pruebas para evaluar la estabilidad y el desempeño general del sistema.
 - Refinar la interacción entre el **rotary encoder** y la **pantalla OLED** para hacer el ajuste de parámetros más intuitivo.
 - Realizar pruebas adicionales para garantizar que el sistema sea confiable y adecuado para aplicaciones microfluídicas y de llenado de cápsulas.
-- El volumenmuerto 
+- - **Integración del volumen muerto en los microtubos:**  
+  Se incorporará un volumen muerto en los microtubos que irán conectados directamente al **lab-on-a-chip**. Este volumen muerto es esencial para evitar la pérdida de fluido durante el proceso de dosificación y garantizar que todo el fluido se transfiera de manera eficiente al sistema microfluídico. Esta adición mejorará la precisión de las mediciones y optimizará el desempeño del prototipo en aplicaciones de investigación.
