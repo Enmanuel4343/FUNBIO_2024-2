@@ -3,7 +3,7 @@
 ## Introducción y Contextualización del Prototipo
 
 ### Descripción breve del proyecto:
-El proyecto consiste en el diseño y construcción de una bomba de jeringa de microfluidos de bajo costo, diseñada para aplicaciones en laboratorios de investigación y llenado preciso de cápsulas de medicamentos. El prototipo tiene control preciso de caudal y tiempo, una interfaz que incluye un rotary encoder y una pantalla OLED, además de un diseño modular y de hardware abierto que permite su uso en entornos con recursos limitados.
+El proyecto consiste en el diseño y construcción de una bomba de jeringa de microfluidos de bajo costo, diseñada para aplicaciones en laboratorios de investigación. El prototipo cuenta con las opciones a editar de la velocidad de rotacion del motor y el tiempo de ciclado, una interfaz basada en un rotary encoder y una pantalla OLED, y un diseño modular y de hardware abierto para facilitar su replica y mejora.
 
 ### Problemática abordada:
 En muchos laboratorios, especialmente en regiones con recursos escasos, no hay equipos accesibles para manejar fluidos en pequeñas cantidades con precisión. Esto dificulta investigaciones y experimentos que requieren dosificación controlada. Los dispositivos disponibles en el mercado son costosos y poco personalizables.
