@@ -18,6 +18,8 @@
 ## Primer Prototipado:
 ![WhatsApp Image 2024-11-19 at 11 44 42 PM (1)](https://github.com/user-attachments/assets/c988c85c-cc06-4ba7-a1c7-ef80f16eec30)
 
+![image](https://github.com/user-attachments/assets/643a92ca-b69d-4800-ba5e-0bad9046b7be)
+
 ## Segundo prototipado
 
 
