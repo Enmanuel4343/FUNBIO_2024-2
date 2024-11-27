@@ -25,3 +25,42 @@ https://www.canva.com/design/DAGUOoJ8uOA/oJno1h4mS7QjiU7FCJEBOA/edit
 
 ## HITO 2
 https://www.canva.com/design/DAGXW4P886w/oTAJVmxKRIARDsh9LVkTuA/edit
+# Bomba de Jeringa de Microfluidos de Bajo Costo
+
+## Problemática
+En muchos laboratorios, especialmente en regiones con recursos limitados, existe una falta de equipos accesibles para la dosificación precisa de fluidos en pequeñas cantidades. Los dispositivos disponibles en el mercado son costosos y difícilmente personalizables, lo que limita investigaciones y en experimentos microfluídicos.
+
+## Manufactura
+El prototipo fue diseñado con un enfoque modular y de hardware abierto, permitiendo que sea replicable y ajustable en entornos con bajos recursos. Los componentes principales incluyen:
+- Arduino Uno para el control principal.
+- Motor N20 o motor DC con husillo para el movimiento del émbolo.
+- Guía lineal y pusher block para garantizar precisión y estabilidad.
+- Rotary encoder y pantalla OLED para la interacción con el usuario.
+Algunas partes se fabricaron mediante impresión 3D, lo que facilita la personalización y reduce costos.
+
+![image](https://github.com/user-attachments/assets/d7a0ddee-8497-4a19-b9e1-7288c5c378c6)
+
+
+
+## Prototipado
+Se desarrolló un prototipo funcional que permite ajustar parámetros como caudal y tiempo directamente desde la interfaz. Aunque inicialmente se planeó utilizar un motor paso a paso, se optó temporalmente por un motor DC debido a disponibilidad. El diseño ha pasado por iteraciones para mejorar la sincronización de los componentes y la precisión del sistema.
+
+
+
+https://github.com/user-attachments/assets/a1672e98-afae-4148-91a6-3e749ef38ebb
+
+
+## Estado Actual
+El prototipo ha avanzado significativamente. Se ha integrado exitosamente una **guía lineal** junto con un **motor paso a paso**, lo que mejora la precisión del movimiento del émbolo y permite un control más estable y preciso del caudal y tiempo. Esto ha solucionado los problemas de estabilidad previos al utilizar el motor DC. Actualmente, el sistema está operativo y funcional, y se está trabajando en la optimización de la interfaz.
+
+
+
+![image](https://github.com/user-attachments/assets/bd499100-c9b9-4d92-97a3-8507060be8c4)
+
+
+## Próximos Pasos
+- Finalizar la integración del motor paso a paso con la interfaz de usuario para un control más preciso.
+- Continuar con las pruebas para evaluar la estabilidad y el desempeño general del sistema.
+- Refinar la interacción entre el **rotary encoder** y la **pantalla OLED** para hacer el ajuste de parámetros más intuitivo.
+- Realizar pruebas adicionales para garantizar que el sistema sea confiable y adecuado para aplicaciones microfluídicas y de llenado de cápsulas.
+- El volumenmuerto 
