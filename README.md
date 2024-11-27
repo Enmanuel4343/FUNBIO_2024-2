@@ -22,3 +22,6 @@ La temática tratada es sobre *Open Hardware para la salud y los laboratorios*.
 
 ## HITO 1
 https://www.canva.com/design/DAGUOoJ8uOA/oJno1h4mS7QjiU7FCJEBOA/edit
+
+## HITO 2
+https://www.canva.com/design/DAGXW4P886w/oTAJVmxKRIARDsh9LVkTuA/edit
