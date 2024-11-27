@@ -79,7 +79,7 @@ Aunque el sistema es funcional, la inestabilidad del motor DC afecta la precisi�
 ## Conclusiones y Próximos Pasos
 
 ### Resumen de logros:
-Se integraron los componentes básicos del prototipo, logrando un sistema funcional para empujar el émbolo de las jeringas. El motor DC, aunque inestable, permite controlar la velocidad y realizar pruebas preliminares.
+Se integraron los componentes básicos del prototipo, logrando un sistema funcional para empujar el émbolo de las jeringas mediante el pusher block. El motor DC, aunque inestable, permite controlar la velocidad y realizar pruebas preliminares.
 
 ### Aspectos por mejorar:
 - Adquirir el motor paso a paso pendiente para mejorar la precisión y estabilidad del sistema.
