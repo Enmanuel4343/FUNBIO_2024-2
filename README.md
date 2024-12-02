@@ -1,7 +1,7 @@
 ![68747470733a2f2f692e706f7374696d672e63632f58594c3947584d522f707563702e706e67](https://github.com/user-attachments/assets/f5917d88-32cc-4da6-9d7f-f75349cf09a3)
 
 # Fundamentos de Biodiseño: Equipo 7
-En esta pagina podras conocer a los integrantes de este equipo, también conocer un poco de cada uno y cual fue su función en el desarrollo del proyecto
+En esta pagina podras conocer a los integrantes de este equipo, también conocer un poco de cada uno y cual fue su función en el desarrollo del proyecto.
 ## Presentación del Equipo
 
 |Enmanuel Jauregui Vega | José Gabriel Bardales Villanes | Naun Aldair Cari Quispe |
